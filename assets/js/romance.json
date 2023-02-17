@@ -1,0 +1,253 @@
+    [
+        {
+            "id":"01",
+            "tittle": "Propuesta laboral",
+            "genero": [ "Romance","Comedia", "Drama", "Comedia", "Negocios" ],
+            "sipnosis": "Shin Ha-ri va a una cita a ciegas en lugar de su amiga Jin Young-seo ,cuyo padre la había organizado. Young-seo no quería asistir y había pedido a Ha-ri que fuera en su lugar con el objetivo de ser rechazada por ese posible candidato a marido. Pero los planes fracasan cuando él resulta ser Kang Tae-mu , director ejecutivo  de la empresa donde trabaja Ha-ri. Tae-mu decide casarse con su compañera de cita a ciegas creyendo que es Jin Young-seo e ignorando que está empleada en su empresa. Sin embargo, la identidad falsa (pero no su estado laboral) pronto queda descubierta después de que la verdadera Jin Young-seo se involucra en un incidente de estacionamiento con Cha Sung-hoon, el asistente ejecutivo de Tae-mu, quien en ese momento actuaba como conductor de este​.",
+            "director":" Park Seon Ho",
+            "guionista":["Han Sul Hee", "Hong Bo Hee"],
+            "escritor (webtoon)":"Hae Hwa",
+            "episodios":"12",
+            "cadena":" SBS",
+            "donde ver":"Netflix",
+            "periodo de emision":"28-Febrero-2022 al 05-Abril-2022",
+            "year":"2022",
+            "type":"Serie",
+            "img_url": "https://pics.filmaffinity.com/Propuesta_laboral_Serie_de_TV-459472764-large.jpg",
+            "banda sonora":"https://www.youtube.com/watch?v=W7nQrC0YT6g",
+            "reparto":[
+                {
+                    "id":"1.1",
+                    "actor":"Se jeong",
+                    "personaje":"Shin Ha-ri",
+                    "genero":"Femenino",
+                    "img":"https://pics.filmaffinity.com/Propuesta_laboral_Serie_de_TV-642215048-large.jpg"
+                },
+                {
+                    "id":"1.2",
+                    "actor":"Ahn Hyo-seop",
+                    "personaje":"Kang Tae-moo ",
+                    "genero":"Masculino",
+                    "img":"https://pics.filmaffinity.com/Propuesta_laboral_Serie_de_TV-735325547-large.jpg"
+                },
+                {
+                    "id":"1.3",
+                    "actor":"Kim Min-kyu",
+                    "personaje":"Cha Sung-hoon ",
+                    "genero":"Masculino",
+                    "img":"https://pics.filmaffinity.com/Propuesta_laboral_Serie_de_TV-249553847-large.jpg"
+                },
+                {
+                    "id":"1.4",
+                    "actor":"Seol In-ah",
+                    "personaje":"Jin Young-seo",
+                    "genero":"Femenino",
+                    "img":"https://pics.filmaffinity.com/Propuesta_laboral_Serie_de_TV-726319885-large.jpg"
+                }
+            ]
+        },
+        {
+            "id":"02",
+            "tittle": "Woo una abogada extraordinaria",
+            "genero": [ "Romance","Legal", "Drama", "Crimen"],
+            "sipnosis": "Cuenta la historia de Woo Young-woo, una abogada que padece de Trastorno del Espectro Autista, que trabaja en un gran bufete. Tiene un alto coeficiente intelectual, de 164, una memoria sobresaliente y una forma creativa de pensar, y es la abogada más inteligente de Corea del Sur. Sin embargo, sus habilidades sociales son algo débiles.",
+            "director":" Yoo In Sik ",
+            "guionista":"Moon Ji Won",
+            "episodios":"16",
+            "cadena":"ENA",
+            "donde ver":"Netflix",
+            "periodo de emision":" 29-Junio-2022 al 18-Agosto-2022",
+            "year":"2022",
+            "type":"Serie",
+            "img_url": "https://thedigitalpopcorn.files.wordpress.com/2023/01/extraordinary-attorney-woo-frequently-asked-questions.jpg?w=500",
+            "banda sonora":"https://www.youtube.com/watch?v=ZntJ5D0RSyc",
+            "reparto":[
+                {
+                   
+                    "id":"2.1",
+                    "actor":"Park Eun Bin ",
+                    "personaje":"Woo Young Woo",
+                    "genero":"Femenino",
+                    "img":"https://media.glamour.mx/photos/6303c4127e82dc67718f6768/master/pass/abogada_Woo.jpg" 
+                },
+                {
+                    "id":"2.2",
+                    "actor":"Kang Tae Oh",
+                    "personaje":"Jung Myung Seok",
+                    "genero":"Masculino",
+                    "img":"https://elcomercio.pe/resizer/DflMw7nXjT6kZDhzEPTe9KhnMTY=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/SZK2GOBRXNG6JH34XF7Z4QYC7M.jpg"
+                },
+                {
+                    "id":"2.3",
+                    "actor":"Kang Ki Young ",
+                    "personaje":"Jung Myung Seok",
+                    "genero":"Masculino",
+                    "img":"https://6.viki.io/image/986505089b8544db991ddc69cc834259/dummy.jpeg?s=900x600&e=t"
+                },
+                {
+                    "id":"2,4",
+                    "actor":":Joo Hyun-young",
+                    "personaje":"Dong Geu Ra Mi",
+                    "genero":"Femenino",
+                    "img":"https://www.gluwee.com/wp-content/uploads/2022/08/Joo-Hyun-Young.jpeg"
+                }
+            ]
+        },
+        {   
+            "id":"03",
+            "tittle":"Love in Contract",
+            "genero":["Romance", "Drama"],
+            "sipnosis":"Choi Sang Eun es una mujer atractiva, con talento y encanto. Ella trabaja como maestra de matrimonio por contrato. Su trabajo es ayudar a su cliente a tener una vida de soltera perfecta. Se transforma para cada uno de sus clientes. Su cliente Jung Ji Ho ha estado en un contrato de matrimonio con ella durante 5 años, los lunes, miércoles y viernes de la semana. Jung Ji Ho es un hombre misterioso. Su nuevo cliente Kang Hae Jin es un actor popular. Ella tiene un contrato de matrimonio con él los días martes, jueves y sábado. Choi Sang Eun se involucra con sus 2 clientes y se encuentra en un triángulo amoroso.",
+            "director":" Nam Sung Woo",
+            "guionista":" Ha Goo Dam",
+            "episodios":"16",
+            "cadena":"tvN",
+            "donde ver":["HiTV", "Doramasflix", "Pandramas"],
+            "periodo de emision":"21-Septiembre-2022 al 10-Noviembre-2022",
+            "year":"2022",
+            "type":"Serie",
+            "img_url":"https://static.wikia.nocookie.net/drama/images/e/ee/Love_in_Contract-tvN-2022-02.jpg/revision/latest/scale-to-width-down/250?cb=20220823090047&path-prefix=es",
+            "banda sonora":"https://www.youtube.com/watch?v=GdqScR8YSaE",
+            "reparto":[
+                {
+                    "id":"3.1",
+                    "actor":"Park Min Young",
+                    "personaje":"Choi Sang Eun",
+                    "genero":"Femenino",
+                    "img":"https://blogul-lui-gian.ro/wp-content/uploads/2022/09/love-in-contract-1077-poster-e1663921188362-185x266.jpg"
+                },
+                {
+                    "id":"3.2",
+                    "actor":"Go Kyung Pyo",
+                    "personaje":"Jung Ji Ho",
+                    "genero":"Masculino",
+                    "img":"https://0.soompi.io/wp-content/uploads/2022/09/07201800/Go-Kyung-Pyo-4.jpeg"
+                },
+                {
+                    "id":"3.3",
+                    "actor":"Kim Jae Young ",
+                    "personaje":"Kang Hae Jin",
+                    "genero":"Masculino",
+                    "img":"https://0.soompi.io/wp-content/uploads/2022/09/01123332/kim-jae-young-2.jpg"
+                },
+                {
+                    "id":"3.4",
+                    "actor":"Lee Joo-bin",
+                    "personaje":"Jung Ji Eun",
+                    "genero":"Femenino",
+                    "img":"https://0.soompi.io/wp-content/uploads/2022/10/31152939/lee-joo-bin-1-1.jpg"
+                }
+            ]
+        },
+        {
+            "id":"04",
+            "tittle":"Esta Bien No Estar Bien",
+            "genero":["Romance", "Drama", "Fantasía", "Psicológico", "Comedia"],
+            "sipnosis":"La serie sigue el inusual romance entre Moon Gang-tae (Kim So-Hyun) y Ko Mun-yeong (Seo Ye-ji), dos personas que terminan sanándose mutuamente las heridas emocionales y psicológicas. Un hombre que niega el amor y una mujer que no conoce el amor desafían el destino y se enamoran, encontrando sus almas e identidades en el proceso.» De esta manera tan violenta empezarán a conocerse Ko Moon-young y Moon Kang-tae.",
+            "director":"Park Sin Woo",
+            "guionista":"Jo Yong",
+            "episodios":"16",
+            "cadena":"tvN",
+            "donde ver":"Netflix",
+            "periodo de emision":" 20-Junio-2020 al 09-Agosto-2020",
+            "year":"2020",
+            "type":"Serie",
+            "img_url":"",
+            "banda sonora":"https://www.youtube.com/watch?v=DI-dZ5H_oNA",
+            "reparto":[
+                {
+                    "id":"4.1",
+                    "actor":"Seo Ye Ji ",
+                    "personaje":"Ko Moon Young",
+                    "genero":"Femenino",
+                    "img":"https://www.nacionrex.com/__export/1597777132707/sites/debate/img/2020/08/18/its-okay-not-to-be-okay-mensaje-secreto_crop1597776717344.jpg_423682103.jpg"
+                },
+                {
+                    "id":"4.2",
+                    "actor":"Kim Soo Hyun",
+                    "personaje":"Moon Kang Tae",
+                    "genero":"Masculino",
+                    "img":"https://1.bp.blogspot.com/-I0zyDKm3sr8/X0WiscfLDPI/AAAAAAAABcg/oAwyRXDYRiwIpOGoW7XZ0WIcv7ItDcz3gCLcBGAsYHQ/s1600/ym-ksh-140620.jpg"
+                },
+                {
+                    "id":"4.3",
+                    "actor":"Oh Jung Se",
+                    "personaje":"Moon Sang Tae",
+                    "genero":"Masculino",
+                    "img":"https://es.moyens.net/wp-content/uploads/2022/04/La-estrella-de-Esta-bien-no-estar-bien-Oh-Jung-se.jpg"
+                },
+                {
+                    "id":"4.4",
+                    "actor":"Park Gyu Young",
+                    "personaje":"Nam Joo Ri",
+                    "genero":"Femenino",
+                    "img":"https://sheilaspatio.files.wordpress.com/2020/11/its-okay-to-not-be-okay-nam-joo-ri.jpg"
+                }
+            ]
+        },
+        {
+            "id":"05",
+            "tittle":"El Afecto del Rey",
+            "genero":["Romance", "Drama", "Comedia", "História"],
+            "sipnosis":"Durante la dinastía Joseon, la princesa consorte heredera da a luz a gemelos, pero envía a la niña lejos para perdonarle la vida. Años más tarde, el hijo gemelo muere en un accidente y su hermana debe asumir su identidad y trono.",
+            "director":"Song Hyun Wook",
+            "guionista":"Han Hee Jung",
+            "episodios":"20",
+            "cadena":" KBS2",
+            "donde ver":"Netflix",
+            "periodo de emision":" 11-Octubre-2021 al 14-Diciembre-2021",
+            "year":"2021",
+            "type":"Serie",
+            "img_url":"https://static.wikia.nocookie.net/doblaje/images/7/74/The_King%27s_Affection-KBS2-2021-01.jpg/revision/latest?cb=20211024231259&path-prefix=es",
+            "banda sonora":"https://www.youtube.com/watch?v=8UJ7r5Jm0o8",
+            "reparto":[
+                {
+                    "id":"5.1",
+                    "actor":"Park Eun Bin",
+                    "personaje":"Lee Hwi",
+                    "genero":"Femenino",
+                    "img":"https://www.themoviedb.org/t/p/original/pPUIpTTuDpAubKJpvnKNIgfir7K.jpg"
+                },
+                {
+                    "id":"5.2",
+                    "actor":"Ro Woon ",
+                    "personaje":"Jung Ji Woon",
+                    "genero":"Masculino",
+                    "img":"https://www.themoviedb.org/t/p/original/gqR4y3ghUDji8asqw2hBKlX3sDZ.jpg"
+                },
+                {
+                    "id":"5.3",
+                    "actor":"Nam Yoon Soo",
+                    "personaje":"Lee Hyun",
+                    "genero":"Masculino",
+                    "img":"https://www.themoviedb.org/t/p/original/nYEDlzjwGGEGywvcd2iZGd9VsIL.jpg"
+                },
+                {
+                    "id":"5.4",
+                    "actor":"Choi Byung Chan ",
+                    "personaje":"Kim Ga On",
+                    "genero":"Masculino",
+                    "img":"https://www.themoviedb.org/t/p/original/q7PW17DzX4p0jc6LGBlI44aXXsh.jpg"
+                }
+            ]
+
+        },
+        {
+            "id":"06",
+            "tittle":"Twenty-Five, Twenty-One",
+            "genero":["Romance", "Drama", "Juvenil"],
+            "sipnosis":"En una época en la que los sueños parecen inalcanzables, una esgrimista adolescente persigue sus metas y conoce a un joven trabajador que intenta rehacer su vida.",
+            "director":"",
+            "guionista":"",
+            "episodios":"",
+            "cadena":"",
+            "donde ver":"",
+            "periodo de emision":"",
+            "year":"",
+            "type":"Serie",
+            "img_url":"",
+            "banda sonora":"",
+            "reparto":[]
+            
+        }
+    ]
