@@ -20,33 +20,30 @@
                     "id":"1.1",
                     "actor":"Se jeong",
                     "personaje":"Shin Ha-ri",
-                    "genero":"Femenino",
+                    "sexo":"Femenino",
                     "img":"https://pics.filmaffinity.com/Propuesta_laboral_Serie_de_TV-642215048-large.jpg"
                 },
                 {
                     "id":"1.2",
                     "actor":"Ahn Hyo-seop",
                     "personaje":"Kang Tae-moo ",
-                    "genero":"Masculino",
+                    "sexo":"Masculino",
                     "img":"https://pics.filmaffinity.com/Propuesta_laboral_Serie_de_TV-735325547-large.jpg"
                 },
                 {
                     "id":"1.3",
                     "actor":"Kim Min-kyu",
                     "personaje":"Cha Sung-hoon ",
-                    "genero":"Masculino",
+                    "sexo":"Masculino",
                     "img":"https://pics.filmaffinity.com/Propuesta_laboral_Serie_de_TV-249553847-large.jpg"
                 },
                 {
                     "id":"1.4",
                     "actor":"Seol In-ah",
                     "personaje":"Jin Young-seo",
-                    "genero":"Femenino",
+                    "sexo":"Femenino",
                     "img":"https://pics.filmaffinity.com/Propuesta_laboral_Serie_de_TV-726319885-large.jpg"
-                }
-            ]
-        },
-        {
+               
             "id":"02",
             "tittle": "Woo una abogada extraordinaria",
             "genero": [ "Romance","Legal", "Drama", "Crimen"],
@@ -67,28 +64,28 @@
                     "id":"2.1",
                     "actor":"Park Eun Bin ",
                     "personaje":"Woo Young Woo",
-                    "genero":"Femenino",
+                    "sexo":"Femenino",
                     "img":"https://media.glamour.mx/photos/6303c4127e82dc67718f6768/master/pass/abogada_Woo.jpg" 
                 },
                 {
                     "id":"2.2",
                     "actor":"Kang Tae Oh",
                     "personaje":"Jung Myung Seok",
-                    "genero":"Masculino",
+                    "sexo":"Masculino",
                     "img":"https://elcomercio.pe/resizer/DflMw7nXjT6kZDhzEPTe9KhnMTY=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/SZK2GOBRXNG6JH34XF7Z4QYC7M.jpg"
                 },
                 {
                     "id":"2.3",
                     "actor":"Kang Ki Young ",
                     "personaje":"Jung Myung Seok",
-                    "genero":"Masculino",
+                    "sexo":"Masculino",
                     "img":"https://6.viki.io/image/986505089b8544db991ddc69cc834259/dummy.jpeg?s=900x600&e=t"
                 },
                 {
                     "id":"2,4",
                     "actor":":Joo Hyun-young",
                     "personaje":"Dong Geu Ra Mi",
-                    "genero":"Femenino",
+                    "sexo":"Femenino",
                     "img":"https://www.gluwee.com/wp-content/uploads/2022/08/Joo-Hyun-Young.jpeg"
                 }
             ]
@@ -113,28 +110,28 @@
                     "id":"3.1",
                     "actor":"Park Min Young",
                     "personaje":"Choi Sang Eun",
-                    "genero":"Femenino",
+                    "sexo":"Femenino",
                     "img":"https://blogul-lui-gian.ro/wp-content/uploads/2022/09/love-in-contract-1077-poster-e1663921188362-185x266.jpg"
                 },
                 {
                     "id":"3.2",
                     "actor":"Go Kyung Pyo",
                     "personaje":"Jung Ji Ho",
-                    "genero":"Masculino",
+                    "sexo":"Masculino",
                     "img":"https://0.soompi.io/wp-content/uploads/2022/09/07201800/Go-Kyung-Pyo-4.jpeg"
                 },
                 {
                     "id":"3.3",
                     "actor":"Kim Jae Young ",
                     "personaje":"Kang Hae Jin",
-                    "genero":"Masculino",
+                    "sexo":"Masculino",
                     "img":"https://0.soompi.io/wp-content/uploads/2022/09/01123332/kim-jae-young-2.jpg"
                 },
                 {
                     "id":"3.4",
                     "actor":"Lee Joo-bin",
                     "personaje":"Jung Ji Eun",
-                    "genero":"Femenino",
+                    "sexo":"Femenino",
                     "img":"https://0.soompi.io/wp-content/uploads/2022/10/31152939/lee-joo-bin-1-1.jpg"
                 }
             ]
@@ -159,28 +156,28 @@
                     "id":"4.1",
                     "actor":"Seo Ye Ji ",
                     "personaje":"Ko Moon Young",
-                    "genero":"Femenino",
+                    "sexo":"Femenino",
                     "img":"https://www.nacionrex.com/__export/1597777132707/sites/debate/img/2020/08/18/its-okay-not-to-be-okay-mensaje-secreto_crop1597776717344.jpg_423682103.jpg"
                 },
                 {
                     "id":"4.2",
                     "actor":"Kim Soo Hyun",
                     "personaje":"Moon Kang Tae",
-                    "genero":"Masculino",
+                    "sexo":"Masculino",
                     "img":"https://1.bp.blogspot.com/-I0zyDKm3sr8/X0WiscfLDPI/AAAAAAAABcg/oAwyRXDYRiwIpOGoW7XZ0WIcv7ItDcz3gCLcBGAsYHQ/s1600/ym-ksh-140620.jpg"
                 },
                 {
                     "id":"4.3",
                     "actor":"Oh Jung Se",
                     "personaje":"Moon Sang Tae",
-                    "genero":"Masculino",
+                    "sexo":"Masculino",
                     "img":"https://es.moyens.net/wp-content/uploads/2022/04/La-estrella-de-Esta-bien-no-estar-bien-Oh-Jung-se.jpg"
                 },
                 {
                     "id":"4.4",
                     "actor":"Park Gyu Young",
                     "personaje":"Nam Joo Ri",
-                    "genero":"Femenino",
+                    "sexo":"Femenino",
                     "img":"https://sheilaspatio.files.wordpress.com/2020/11/its-okay-to-not-be-okay-nam-joo-ri.jpg"
                 }
             ]
@@ -205,28 +202,28 @@
                     "id":"5.1",
                     "actor":"Park Eun Bin",
                     "personaje":"Lee Hwi",
-                    "genero":"Femenino",
+                    "sexo":"Femenino",
                     "img":"https://www.themoviedb.org/t/p/original/pPUIpTTuDpAubKJpvnKNIgfir7K.jpg"
                 },
                 {
                     "id":"5.2",
                     "actor":"Ro Woon ",
                     "personaje":"Jung Ji Woon",
-                    "genero":"Masculino",
+                    "sexo":"Masculino",
                     "img":"https://www.themoviedb.org/t/p/original/gqR4y3ghUDji8asqw2hBKlX3sDZ.jpg"
                 },
                 {
                     "id":"5.3",
                     "actor":"Nam Yoon Soo",
                     "personaje":"Lee Hyun",
-                    "genero":"Masculino",
+                    "sexo":"Masculino",
                     "img":"https://www.themoviedb.org/t/p/original/nYEDlzjwGGEGywvcd2iZGd9VsIL.jpg"
                 },
                 {
                     "id":"5.4",
                     "actor":"Choi Byung Chan ",
                     "personaje":"Kim Ga On",
-                    "genero":"Masculino",
+                    "sexo":"Masculino",
                     "img":"https://www.themoviedb.org/t/p/original/q7PW17DzX4p0jc6LGBlI44aXXsh.jpg"
                 }
             ]
@@ -237,17 +234,328 @@
             "tittle":"Twenty-Five, Twenty-One",
             "genero":["Romance", "Drama", "Juvenil"],
             "sipnosis":"En una época en la que los sueños parecen inalcanzables, una esgrimista adolescente persigue sus metas y conoce a un joven trabajador que intenta rehacer su vida.",
-            "director":"",
-            "guionista":"",
-            "episodios":"",
-            "cadena":"",
-            "donde ver":"",
-            "periodo de emision":"",
-            "year":"",
+            "director":"Jung Ji Hyun",
+            "guionista":"Kwon Do Eun",
+            "episodios":"16",
+            "cadena":"tvN",
+            "donde ver":"Netflix",
+            "periodo de emision":"12-Febrero-2022 al 03-Abril-2022",
+            "year":"2022",
             "type":"Serie",
-            "img_url":"",
-            "banda sonora":"",
-            "reparto":[]
-            
-        }
+            "img_url":"https://static.wikia.nocookie.net/drama/images/3/3c/Twenty-Five%2C_Twenty-One-tvN-2022-06.jpg/revision/latest/scale-to-width-down/250?cb=20220207105216&path-prefix=es",
+            "banda sonora":"https://www.youtube.com/watch?v=gM3FTg0H9Ic",
+            "reparto":[
+              {
+                    "id":"6.1",
+                    "actor":"Kim Tae Ri",
+                    "personaje":" Na Hee Do",
+                    "sexo":"Femenino",
+                    "img":"https://6.viki.io/image/4a1a5d9289ea49109b99d63d60d5ba20/dummy.jpeg?s=900x600&e=t"
+                },
+              {
+                    "id":"6.2",
+                    "actor":"Nam Joo Hyuk ",
+                    "personaje":"Baek Yi Jin",
+                    "sexo":"Masculino",
+                    "img":"https://0.soompi.io/wp-content/uploads/2022/02/17101320/Nam-Joo-Hyuk-11.jpeg"
+                },
+              {
+                    "id":"6.3",
+                    "actor":"Choi Hyun Wook  ",
+                    "personaje":"Moon Ji Woong",
+                    "sexo":"Masculino",
+                    "img":"https://0.soompi.io/wp-content/uploads/2022/01/23225916/Choi-Hyun-Wook.jpeg"
+                },
+              {
+                    "id":"6.4",
+                    "actor":"Lee Joo Myung  ",
+                    "personaje":"Ji Seung Wan",
+                    "sexo":"Femenino",
+                    "img":"https://images.summitmedia-digital.com/cosmo/images/2022/04/19/lee-joo-myung-2-1650373655.jpg"
+                },
+              {
+                    "id":"6.5",
+                    "actor":"Bona ",
+                    "personaje":"Go Yoo Rim",
+                    "sexo":"Femenino",
+                    "img":"https://www.dreamers.id/img_artikel/13bona-wjsn-twenty-five-twenty-one.jpg"
+                }
+            ]
+        },
+      {
+        "id":"07",
+            "tittle":"Las inclemencias del amor",
+            "genero":[ "Drama", "Romance", "Negocios"],
+            "sipnosis":"Un melodrama de oficina que representa la vida laboral y amorosa de las personas que trabajan en la Administración Meteorológica de Corea, que es más calurosa que las noches tropicales y más indispensable que las fuertes lluvias locales. Representa la alegre historia de amor de personas que se quiebran, caen y se levantan de nuevo, y cómo crecen juntas cada día.Jin Ha Kyung se ha alejado, por elección, del resto de sus colegas, ya que prefiere seguir las reglas y mantener separadas la vida personal y la profesional. Sin embargo, cuando entra como empleado el espíritu libre de Lee Shi Woo, impresiona a Jin Ha Kyung a través de su inteligencia y su obsesión con el clima, y lentamente comienza a derribar las barreras que Jin Ha Kyung ha construido alrededor de su corazón.",
+         "director":"Cha Young Hoon",
+            "guionista":" Sun Young",
+            "episodios":"16",
+            "cadena":"jTBC",
+            "donde ver":"Netflix",
+            "periodo de emision":"12-Febrero-2022 al 03-Abril-2022",
+            "year":"2022",
+            "type":"Serie",
+            "img_url":"https://pics.filmaffinity.com/Las_inclemencias_del_amor_Serie_de_TV-197497893-large.jpg",
+            "banda sonora":"https://www.youtube.com/watch?v=UkvkQNtvBoU",
+            "reparto":[
+              {
+                    "id":"7.1",
+                    "actor":"Park Min Young ",
+                    "personaje":"Jin Ha Kyung",
+                    "sexo":"Femenino",
+                    "img":"https://0.soompi.io/wp-content/uploads/2022/03/10004026/forecasting-love-.jpeg"
+                },
+              {
+                    "id":"7.2",
+                    "actor":"Song Kang ",
+                    "personaje":"Lee Shi Woo",
+                    "sexo":"Masculino",
+                    "img":"https://www.nacionflix.com/__export/1646628298967/sites/debate/img/2022/03/06/song-kang-forecasting-love-and-weather.jpg_976912859.jpg"
+                },
+              {
+                    "id":"7.3",
+                    "actor":"Yoon Park ",
+                    "personaje":"Han Ki Joon",
+                    "sexo":"Masculino",
+                    "img":"https://cdn.idntimes.com/content-images/community/2021/06/fromandroid-00fb0dfcb2f4e13f4a2ae08704360882.jpg"
+                },
+              {
+                    "id":"7.4",
+                    "actor":"Yura ",
+                    "personaje":"Chae Yoo Jin",
+                    "sexo":"Femenino",
+                    "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/7d08ea8c-6dfa-4bd1-b13f-4432ca9ff59c-1645791406.jpeg?crop=1xw:1xh;center,top&resize=480:*"
+                }
+            ]
+      },
+      {
+        "id":"08",
+            "tittle":"Our Beloved Summer",
+            "genero":[ "Drama", "Romance", "Comedia"],
+            "sipnosis":"Años después de filmar un documental en la escuela que se volvió viral, dos examantes enemistados vuelven a estar frente a cámara... y frente a frente. ",
+          "director":"Kim Yoon Jin",
+            "guionista":"Lee Na Eun",
+            "episodios":"16",
+            "cadena":"SBS",
+            "donde ver":"Netflix",
+            "periodo de emision":"06-Diciembre-2021 al 25-Enero-2022",
+            "year":"2022",
+            "type":"Serie",
+            "img_url":"https://thatparkplace.com/wp-content/uploads/2022/02/cRZ3QLG-1.jpg",
+            "banda sonora":"https://www.youtube.com/watch?v=tt6SOhoV7pw",
+            "reparto":[
+              {
+                "id":"8.1",
+                    "actor":"Choi Woo Shik ",
+                    "personaje":"Choi Woong",
+                    "sexo":"Masculino",
+                    "img":"https://ilikestatic.s3.ap-southeast-1.amazonaws.com/news/articles/thumb/3a239L22AjOWK9mPT2CjEwIXOPGF4ZzdT7e2dORb.jpg"
+              },
+              {
+                "id":"8.2",
+                    "actor":"Kim Da Mi ",
+                    "personaje":"Gook Yeon Soo",
+                    "sexo":"Femenino",
+                    "img":"https://monngon.tv/wp-content/uploads/2021/12/mua-he-yeu-dau-cua-chung-ta-07-0932.jpg"
+              },
+              {
+                "id":"8.3",
+                    "actor":"Kim Sung Chul",
+                    "personaje":"Kim Ji Woong",
+                    "sexo":"Masculino",
+                    "img":"https://i.mydramalist.com/B80Qz_7c.jpg"
+              },
+              {
+                "id":"8.4",
+                    "actor":"Noh Jung Ui",
+                    "personaje":" NJ",
+                    "sexo":"Femenino",
+                    "img":"https://kenh14cdn.com/thumb_w/660/203336854389633024/2022/1/7/aca34176-b536-4b3e-8d71-74619d15d255-16415299643801209049146.jpeg"
+              }
+            ]
+      },
+      {
+        "id":"09",
+            "tittle":"Erase un amor rural",
+            "genero":[ "Drama", "Romance", "Comedia"],
+            "sipnosis":"En contra de sus deseos, un veterinario de Seúl se muda a un pueblito, donde se enamora de una policía rural con un secreto.",
+          "director":"Jo Young Min ",
+            "guionista":"Baek Eun Kyung",
+            "episodios":"12",
+            "cadena":"KakaoTV",
+            "donde ver":"Netflix",
+            "periodo de emision":"05-Septiembre-2022 al 28-Septiembre-2022",
+            "year":"2022",
+            "type":"Serie",
+       "img_url":"https://pics.filmaffinity.com/rase_un_amor_rural_Serie_de_TV-442162737-large.jpg",
+            "banda sonora":"https://www.youtube.com/watch?v=o0tO9Dm6pRo",
+            "reparto":[
+              {
+                "id":"9.1",
+                    "actor":"Choo Yeong Woo",
+                    "personaje":"Han Ji Yool",
+                    "sexo":"Masculino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/5/52/Once_Upon_a_Small_Town-Kakao_TV-2022-03.jpg/revision/latest/scale-to-width-down/250?cb=20220905103127&path-prefix=es"
+              },
+              {
+                "id":"9.2",
+                    "actor":"Joy",
+                    "personaje":"An Ja Young",
+                    "sexo":"Femenino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/7/7a/Once_Upon_a_Small_Town-Kakao_TV-2022-02.jpg/revision/latest/scale-to-width-down/250?cb=20220905103125&path-prefix=es"
+              },
+              {
+                "id":"9.3",
+                    "actor":"Baek Sung Chul ",
+                    "personaje":"Lee Sang Hyeon",
+                    "sexo":"Masculino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/d/d4/Once_Upon_a_Small_Town-Kakao_TV-2022-04.jpg/revision/latest/scale-to-width-down/250?cb=20220905103126&path-prefix=es"
+              },
+              {
+                "id":"9.4",
+                    "actor":"Ha Yul Ri",
+                    "personaje":"Choi Min",
+                    "sexo":"Femenino",
+                    "img":"https://photos.hancinema.net/photos/photo1612724.jpg"
+              }
+            ]
+      },
+      {
+           "id":"10",
+            "tittle":"La vida fabulosa",
+            "genero":[ "Drama", "Romance"],
+            "sipnosis":"Cuatro amigos luchan por cumplir sus sueños dentro del competitivo mundo de la moda mientras lidian con trabajos exigentes, dilemas románticos y noches salvajes en la ciudad.",
+            "director":"Kim Jung Hyun",
+            "guionista":["Kim Ji Hee", " Im Jin Sun "],
+            "episodios":"8",
+            "cadena":"Netflix",
+            "donde ver":"Netflix",
+            "periodo de emision":"23-Diciembre-2022",
+            "year":"2022",
+            "type":"Serie",
+            "img_url":"https://mx.web.img2.acsta.net/pictures/22/10/04/03/01/3067758.jpg",
+            "banda sonora":"https://www.youtube.com/watch?v=67XeXWwK7bA",
+            "reparto":[
+              {
+                "id":"10.1",
+                    "actor":"Choi Min Ho",
+                    "personaje":" Ji Woo Min",
+                    "sexo":"Masculino",
+                    "img":"https://asianwiki.com/images/6/69/The_Fabulous-engsubteaser.jpg"
+              },
+              {
+                "id":"10.2",
+                    "actor":"Chae Soo Bin ",
+                    "personaje":"Pyo Ji Eun",
+                    "sexo":"Femenino",
+                    "img":"https://media.vogue.mx/photos/63a4e5a0d684c8840d94c4b7/2:3/w_2560%2Cc_limit/la-vida-fabulosa-chae-soo-bin.jpg"
+              },
+              {
+                "id":"10.3",
+                    "actor":"Park Hee Jung",
+                    "personaje":"Ye Seon Ho",
+                    "sexo":"Femenino",
+                    "img":"https://i.mydramalist.com/kQkzr_5f.jpg"
+              },
+              {
+                "id":"10.4",
+                    "actor":"Lee Sang Un",
+                    "personaje":"Joseph",
+                    "sexo":"Masculino",
+                    "img":"https://occ-0-784-3211.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVGb3sm5KZ549f7g-K4sgOvLScDihIjjY5GiHGiO0Uu0CItezAlxRVctzaHcsvbTW1eQeMiyeBpmogXpVxdPk0zZ7Jdci8725Xh_lRWg265MvivDBEUgQxff.jpg?r=1a3"
+              }
+            ]    
+      },
+      {
+         "id":"11",
+            "tittle":"Nuestro horizonte azul",
+            "genero":["Drama", "Romance", "Familiar", "Vida", "Ómnibus"],
+            "sipnosis":"El amor es dulce y amargo —y la vida está llena de altibajos— en estas historias sobre un grupo de personas que habitan y trabajan en la ajetreada isla de Jeju.",
+            "director":"Kim Kyu Tae",
+            "guionista":" Noh Hee Kyung",
+            "episodios":"20",
+            "cadena":"tvN",
+            "donde ver":"Netflix",
+            "periodo de emision":"09-Abril-2022 al 12-Junio-2022",
+            "year":"2022",
+            "type":"Serie",
+            "img_url":"https://pics.filmaffinity.com/Nuestro_horizonte_azul_Serie_de_TV-955676653-large.jpg",
+            "banda sonora":"https://www.youtube.com/watch?v=L13ioc7HqX8",
+            "reparto":[
+              {
+                "id":"11.1",
+                    "actor":"Lee Byung Hun",
+                    "personaje":"Lee Dong Suk",
+                    "sexo":"Masculino",
+                    "img":"https://0.soompi.io/wp-content/uploads/2022/05/05192923/Lee-Byung-Hun.jpg"
+              },
+              {
+                "id":"11.2",
+                    "actor":"Shin Min Ah ",
+                    "personaje":"Min Sun Ah",
+                    "sexo":"Femenino",
+                    "img":"https://occ-0-768-2186.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABe5iMWHAwUZm1m7SMm2GDz9lbG19FYVxeZayQO0RJeQZaPIDbB19FwSXTN9K3UwWAN4DLgRn3lvQYRiJh6Jns7RNjRex2XNJxg4.jpg?r=dbe"
+              },
+              {
+                "id":"11.3",
+                    "actor":"Han Ji Min ",
+                    "personaje":"Lee Young Ok",
+                    "sexo":"Femenino",
+                    "img":"https://image.tmdb.org/t/p/original/wzF8AQ4PRBxiNi64H8sdWt6U5S5.jpg"
+              },
+              {
+                "id":"11.4",
+                    "actor":"Kim Woo Bin",
+                    "personaje":"Park Jung Joon",
+                    "sexo":"Masculino",
+                    "img":"https://1739752386.rsc.cdn77.org/data/images/full/255045/our-blues-stills.jpg?w=600?w=430"
+              }
+            ]
+      },
+      {
+           "id":"12",
+            "tittle":"Her Private Life",
+            "genero":[ "Drama", "Romance", "Comedia"],
+            "sipnosis":"La vida de una curadora de arte se desmorona al intentar ocultarle que era fan del K-pop al nuevo director de su galería.",
+            "director":"Hong Jong Chan ",
+            "guionista":"Kim Hye Young",
+            "episodios":"16",
+            "cadena":"tvN",
+            "donde ver":"Netflix",
+            "periodo de emision":"10-Abril-2019 al 30-Mayo-2019",
+            "year":"2019",
+            "type":"Serie",
+            "img_url":"https://static.wikia.nocookie.net/drama/images/5/50/Her_Private_Life-tvN-2019-01.jpg/revision/latest?cb=20190322012349&path-prefix=es",
+            "banda sonora":"https://www.youtube.com/watch?v=xQF7P44AekI",
+            "reparto":[
+              {
+                "id":"12.1",
+                    "actor":"Park Min Young",
+                    "personaje":"Sung Duk Mi",
+                    "sexo":"Femenino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/4/4d/Her_Private_Life-tvN-2019-03.jpg/revision/latest/scale-to-width-down/250?cb=20190329005859&path-prefix=es"
+              },
+              {
+                "id":"12.2",
+                    "actor":"Kim Jae Wook",
+                    "personaje":"Ryan Gold",
+                    "sexo":"Masculino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/5/58/Her_Private_Life-tvN-2019-05.jpg/revision/latest/scale-to-width-down/250?cb=20190329010011&path-prefix=es"
+              },
+              {
+                "id":"12.3",
+                    "actor":"Ahn Bo Hyun",
+                    "personaje":"Nam Eun Gi",
+                    "sexo":"Masculino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/0/05/Her_Private_Life-tvN-2019-06.jpg/revision/latest/scale-to-width-down/250?cb=20190329100954&path-prefix=es"
+              },
+              {
+                "id":"12.4",
+                    "actor":"Hong Seo Young ",
+                    "personaje":"Choi Da In",
+                    "sexo":"Femenino",
+                    "img":"https://photo-2-baomoi.zadn.vn/w700_r1/2019_05_02_329_30565534/dfce648dbecc57920edd.jpg"
+              }
+            ]     
+      }
     ]

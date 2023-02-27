@@ -198,15 +198,16 @@ body{
     font-size: 22px;
   }
   .footer{
+    height: 100px;
     background-color: #e3abe1;
   }
   .footer-tittle{
-    font-size: 20px;
+    font-size: 18px;
     color: beige;
     font-family: Andika;
   }
   .parrafo{
-    font-size: 16px;
+    font-size: 12px;
     color: #eceecd;
   }
   .contenedor{
@@ -259,7 +260,7 @@ body{
   }
   .img-serie:hover{
     transform: scale(1.03);
-    box-shadow: 10px 10px 10px  rgba(139, 44, 76, 0.624);;
+    box-shadow: 10px 10px 10px  rgba(139, 44, 76, 0.624);
   }
   img {
     overflow-clip-margin: content-box;

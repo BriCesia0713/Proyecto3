@@ -201,16 +201,17 @@ body{
     color: white;
   }
   .footer{
+    height: 110px;
     background-color: #cbf9c8;
   }
   .footer-tittle{
-    font-size: 20px;
-    color: #d2d2a7;
+    font-size: 18px;
+    color: #cd6dd9;
   }
   .parrafo{
     font-family: Athiti;
-    font-size: 16px;
-    color: #d0d09f;
+    font-size: 12px;
+    color: #c061ff;
   }
   .contenedor{
     display: grid;

@@ -1,0 +1,592 @@
+ [
+        {
+            "id":"01",
+            "tittle": "Estamos Muertos",
+            "genero": [ "Drama", "Escolar","terror", "Juvenil", "Fantasía" ],
+            "sipnosis":"Un grupo de estudiantes de secundaria están atrapados en su escuela durante un brote de virus zombie. Los estudiantes intentan desesperadamente evitar convertirse en zombis y escapar de su escuela.",
+           "director":"Lee Jae Kyu",
+            "guionista":"Chun Sung Il",
+            "episodios":"12",
+            "cadena":"Netflix",
+            "donde ver":"Netflix",
+            "periodo de emision":"28-Enero-2022",
+            "year":"2022",
+            "type":"Serie",
+            "img_url": "https://pics.filmaffinity.com/Estamos_muertos_Serie_de_TV-115795022-large.jpg",
+            "banda sonora":"https://www.youtube.com/watch?v=RYg7OKl7OTs",
+            "reparto":[
+                {
+                    "id":"1.1",
+                    "actor":"Park Ji Hoo ",
+                    "personaje":" Nam On Jo",
+                    "sexo":"Femenina",
+                    "img":"https://static.wikia.nocookie.net/allofusaredead/images/4/4d/On-jo_Nam.jpg/revision/latest?cb=20220531035601"
+                },
+              {
+                    "id":"1.2",
+                    "actor":"Yoon Chan Young",
+                    "personaje":" Lee Chung San",
+                    "sexo":"Masculino",
+                    "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/yoon-chan-young-all-of-us-are-dead-1643364018.jpg?crop=0.426xw:0.635xh;0.403xw,0.156xh&resize=480:*"
+                },
+               {
+                    "id":"1.3",
+                    "actor":"Cho Yi Hyun",
+                    "personaje":"Choi Nam Ra ",
+                    "sexo":"Femenina",
+                 "img":"https://i.pinimg.com/originals/18/77/08/187708108f4e92ce6989eca068255d2f.jpg"
+                },
+               {
+                    "id":"1.4",
+                    "actor":"Park Solomon",
+                    "personaje":"Lee Soo Hyuk",
+                    "sexo":"Masculino",
+                    "img":"https://elcomercio.pe/resizer/o71gLoIUw1VXbigw_8XFOKMuaew=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ZLXZXLTDZJC7VFHKQZXRT2CS5U.jpg"
+               }
+            ]
+              "id":"02",
+            "tittle": "Sweet Home",
+            "genero": [ "Suspenso", "Psicológico", "Terror"],
+            "sipnosis": "Un joven chico llamado Hyun soo que ha sido victima de bullying se muda a un edificio después de la muerte de sus padres. Este chico, cansado de su vida, fija una fecha para poder suicidarse. Sin embargo, mientras esa fecha llega empieza a notar que los inquilinos del edificio donde vive se van convirtiendo en monstruos uno a uno e intentan matar a los humanos que aun siguen sin poder contagiarse. Este chico, al ver la terrible situación que están pasando sus vecinos, decide vivir y unirse en equipo con los inquilinos para que todos puedan sobrevivir; ¿Lograrán estas personas ganar contra este virus y poder sobrevivir o cederán a este mal para morir todos?",
+            "director":"Lee Eung Bok, Park So Hyun",
+            "guionista":"",
+            "episodios":"3",
+            "cadena":"Netflix",
+            "donde ver":"Netflix",
+            "periodo de emision":" 18-Diciembre-2020 al 2023",
+            "year":"2020",
+            "type":"Serie",
+            "img_url": "https://pics.filmaffinity.com/Sweet_Home_Serie_de_TV-867958163-large.jpg",
+            "banda sonora":"https://www.youtube.com/watch?v=KCZXejH6brY",
+            "reparto":[
+                {
+                   
+                    "id":"2.1",
+                    "actor":"Song Kang ",
+                    "personaje":" Cha Hyun Soo",
+                    "sexo":"Masculino",
+                    "img":"https://media.glamour.mx/photos/6303c4127e82dc67718f6768/master/pass/abogada_Woo.jpg" 
+                },
+                {
+                    "id":"2.2",
+                    "actor":"Lee Jin Wook ",
+                    "personaje":"Pyun Sang Wook",
+                    "sexo":"Masculino",
+                    "img":"https://i.pinimg.com/originals/2d/19/fb/2d19fbb3ff1be56998b1947b2609b7ce.jpg"
+                },
+                {
+                    "id":"2.3",
+                    "actor":"Lee Si Young  ",
+                    "personaje":" Seo Yi Kyung",
+                    "sexo":"Femenino",
+                    "img":"https://vader.news/__export/1608898734262/sites/gadgets/img/2020/12/25/lee_si_young.jpg_2140911063.jpg"
+                },
+                {
+                    "id":"2,4",
+                    "actor":"Lee Do Hyun ",
+                    "personaje":"Lee Eun Hyuk",
+                    "sexo":"Masculino",
+                    "img":"https://vader.news/__export/1608212766937/sites/gadgets/img/2020/12/06/sweet_home_2.jpg_2040531701.jpg"
+      }
+            ]
+        },
+              {   
+            "id":"03",
+            "tittle":"El juego del calamar",
+            "genero":["Drama","Acción","Aventura"],
+            "sipnosis":"Personas que han fallado en la vida y participan en un misterioso juego de supervivencia por la recompensa de 10 mil millones de wones.El título Squid Game proviene del juego en el que un atacante y un defensor se enfrentan cara a cara en formas de círculo, triángulo y cuadrado, como un calamar. Si un atacante logra atravesar al defensor y entra en el círculo, o en la cabeza del calamar, él o ella gana.",
+            "director":" Hwang Dong Hyuk",
+            "guionista":" Hwang Dong Hyuk",
+            "episodios":"2",
+            "cadena":"tvN, Netflix",
+            "donde ver":["HiTV", "Doramasflix", "Pandramas,Netflix"],
+            "periodo de emision":"17-Septiembre-2021",
+            "year":"2021",
+            "type":"Serie",
+            "img_url":"https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg",
+            "banda sonora":"https://www.youtube.com/watch?v=Zo3MNE8KAIY",
+            "reparto":[
+                {
+                    "id":"3.1",
+                    "actor":"Lee Jung Jae",
+                    "personaje":"Ki Hoon / No. 456",
+                    "sexo":"Masculino",
+                    "img":"https://elcomercio.pe/resizer/79lAuANRTm0jfxOiLpGB-VnjsjU=/1200x675/smart/filters:format(jpeg):quality(75)/cdn.jwplayer.com/v2/media/9k9V88c8/poster.jpg"
+                },
+                {
+                    "id":"3.2",
+                    "actor":"Park Hae Soo ",
+                    "personaje":"Sang Woo / No. 218",
+                    "sexo":"Masculino",
+                    "img":"https://static.wikia.nocookie.net/thesquidgame/images/2/22/Sang-woo.png/revision/latest?cb=20211117133725"
+                },
+                {
+                    "id":"3.3",
+                    "actor":"Jung Ho Yeon",
+                    "personaje":"Sae Byeok / No. 067 ",
+                    "sexo":"Femenino",
+                    "img":"https://i.mydramalist.com/BAQbb_7f.jpg"
+                },
+                {
+                    "id":"3.4",
+                    "actor":"Oh Young Soo ",
+                    "personaje":"Oh Il Nam/ No. 001",
+                    "sexo":"masculino",
+                    "img":"https://elcomercio.pe/resizer/im7SfRogSEAs4wLHybSLTSqQ7jA=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VIG34NXGTJAWPMAT5QPI5IUDRE.jpg"
+                }
+            ]
+        },
+               {
+            "id":"04",
+            "tittle":"Kingdom",
+            "genero":["Terror", "Fantasía", "Histórico", "Suspenso"],
+            "sipnosis":"El príncipe heredero se abre paso para poner a salvo a los habitantes de Joseon, pero se encuentra de nuevo luchando en una trama política contra la familia de la Reina.",
+            "director":"Kim Sung Hoon (김성훈)",
+            "guionista":" Kim Eun Hee",
+            "episodios":"6"
+            "cadena":"tvN,Netflix",
+            "donde ver":"Netflix",
+            "periodo de emision":"25-Enero-2019 al 13-Marzo-2020",
+            "year":"2019",
+            "type":"Serie",
+            "img_url":"https://0.soompi.io/wp-content/uploads/2020/02/24100516/Kingdom1.jpg",
+            "banda sonora":"https://www.youtube.com/watch?v=m3nToMVJwbQ",
+            "reparto":[
+                {
+                    "id":"4.1",
+                    "actor":"Joo Ji Hoon ",
+                    "personaje":"Príncipe Heredero",
+                    "sexo":"Msculino",
+                    "img":"https://www.xklibur.com/wp-content/uploads/2021/07/kingdom-6.png"
+                },
+                {
+                    "id":"4.2",
+                    "actor":"Bae Doo Na",
+                    "personaje":"Seo Bi0",
+                    "sexo":"Femenino",
+                    "img":"https://cdn.images.express.co.uk/img/dynamic/20/590x/secondary/Seo-Bi-and-Prince-Chang-relationship-Kingdom-2372217.jpg?r=1584646482837"
+                },
+                {
+                    "id":"4.3",
+                    "actor":"Ryu Seung Ryong",
+                    "personaje":"Jo Hak Joo",
+                    "sexo":"Masculino",
+                    "img":"https://static.wikia.nocookie.net/kaminokuni/images/5/5c/Cho_Hak-ju.png/revision/latest?cb=20190825124814"
+                },
+                {
+                    "id":"4.4",
+                    "actor":"Kim Sang Ho",
+                    "personaje":"Moo Young",
+                    "sexo":"Masculino",
+            "img":"https://static.wikia.nocookie.net/kaminokuni/images/5/5c/Cho_Hak-ju.png/revision/latest?cb=20190825124814"
+                }
+            ]
+        },
+        {
+           "id":"05",
+            "tittle":"El Telefono",
+            "genero":["Drama", "Suspenso", "Misterio", "Fantasía"],
+            "sipnosis":"Conectadas por un teléfono, pero separadas por el tiempo. Una asesina en serie pone en peligro el pasado y la vida de otra mujer para cambiar su propio destino. Ve todo lo que quieras. Un thriller sobre viajes en el tiempo protagonizado por Park Shin-hye, heroína de 'Recuerdos de la Alhambra.",
+            "director":" Lee Chung Hyun",
+            "guionista":"Kang Sun Joo (강선주), Lee Choong Hyun (이충현)",
+            "duracion":"112 min",
+            "cadena":" KBS2,Netflix",
+            "donde ver":"Netflix",
+            "periodo de emision":" 27-Noviembre-2020",
+            "year":"2020",
+            "type":"Pelicula",
+            "img_url":"https://static.wikia.nocookie.net/drama/images/3/30/Call-2020-11.jpg/revision/latest?cb=20201109121740&path-prefix=es",
+            "banda sonora":"",
+            "reparto":[
+                {
+                    "id":"5.1",
+                    "actor":"Park Shin Hye",
+                    "personaje":"Seo Yeon",
+                    "sexo":"Femenino",
+                    "img":"https://static.bangkokpost.com/media/content/20201204/c1_2029887_201204110800.jpg"
+                },
+                {
+                    "id":"5.2",
+                    "actor":"Jun Jong Seo  ",
+                    "personaje":"Young Sook",
+                    "sexo":"Femenino",
+                    "img":"https://d2v0j9zp5u17nn.cloudfront.net/wp-content/uploads/2020/11/25071650/the-call3.jpg"
+                },
+                {
+                    "id":"5.3",
+                    "actor":"Kim Sung Ryung ",
+                    "personaje":" Madre de Seo Yeon",
+                    "sexo":"Femenino",
+                    "img":"https://i.ytimg.com/vi/ZY7IO-eP4uM/maxresdefault.jpg"
+                },
+                {
+                    "id":"5.4",
+                    "actor":"Lee El ",
+                    "personaje":"Madre de Young Sook",
+                    "sexo":"Femenino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/7/77/Call-2019-04.jpg/revision/latest?cb=20190114144304&path-prefix=es"
+                }
+            ]
+
+        },
+                {
+            "id":"06",
+            "tittle":"Goedam",
+            "genero":["Terror"],
+            "sipnosis":"Al caer la noche, la oscuridad desciende sobre las calles de la ciudad, y las sombras y los espíritus cobran vida en esta serie de antología de terror centrada en leyendas urbanas.",
+            "director":"Hong Won Ki (홍원기)",
+            "guionista":" Lee Kang Hyun (이강현)",
+            "episodios":" 8",
+            "cadena":"tvN",
+            "donde ver":"Netflix",
+            "periodo de emision":" 20-Agosto-2020",
+            "year":"2020",
+            "type":"Serie",
+            "img_url":"https://static.wikia.nocookie.net/drama/images/7/7f/Goedam-Netflix-2020-01.jpg/revision/latest/scale-to-width-down/250?cb=20201108123241&path-prefix=es",
+            "banda sonora":"",
+            "reparto":[
+              {
+                    "id":"6.1",
+                    "actor":"Song Chae Yoon",
+                    "personaje":"Seo Hee",
+                    "sexo":"Femenino",
+                    "img":"https://static.tvmaze.com/uploads/images/medium_portrait/264/660828.jpg"
+                },
+              {
+                    "id":"6.2",
+                    "actor":"Han Su Ah ",
+                    "personaje":"Ji Hye ",
+                    "sexo":"Femenino",
+                    "img":"https://occ-0-993-114.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcx5arrnh1msTfY3A1AQkWoV89LfsGx5AK0e-7YJjuCfifv9Ibqy-lX86t5JjZTIHPW1ixQEJbMMdv3v77eNqOLlV-T3On01ecTU7RjvYXciwyyt7gJ1D6jK.jpg?r=a71"
+                },
+              {
+                    "id":"6.3",
+                    "actor":"Choi Hyun Wook  ",
+                    "personaje":"Moon Ji Woong",
+                    "sexo":"Masculino",
+                    "img":"https://0.soompi.io/wp-content/uploads/2022/01/23225916/Choi-Hyun-Wook.jpeg"
+                },
+              {
+                    "id":"6.4",
+                    "actor":"Joo Bo Bi   ",
+                    "personaje":" fantasma de la carretera",
+                    "sexo":"Femenino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/7/7f/Joo_Bo_Bi4.jpg/revision/latest/scale-to-width-down/250?cb=20190806175328&path-prefix=es"
+                },
+              {
+                    "id":"6.5",
+                    "actor":"Han Ga Rim  ",
+                    "personaje":"Sae Rom ",
+                    "sexo":"Femenino",
+                    "img":"https://m.media-amazon.com/images/M/MV5BM2UxZDI1YjQtMmYyYi00MjU5LWEwZTctY2Q5MWQ3NGNkY2VjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg"
+                }
+            ]
+        },
+               {
+        "id":"07",
+            "tittle":"La 8ta noche ",
+            "genero":[ "Misterio", "Suspenso"],
+            "sipnosis":"Un hombre que una vez fue exorcista, sufre hasta que se enfrenta a un demonio que es liberado.",
+         "director":"Kim Tae Hyung (김태형)",
+            "guionista":" ",
+            "Duracion":" 115 min",
+            "cadena":"Netflix, Little Big Pictures",
+            "donde ver":"Netflix",
+            "periodo de emision":" 02-Julio-2021",
+            "year":"2021",
+            "type":"Pelicula",
+            "img_url":"https://pics.filmaffinity.com/La_8A_noche-969829774-large.jpg",
+            "banda sonora":"",
+            "reparto":[
+              {
+                    "id":"7.1",
+                    "actor":"Lee Sung Min ",
+                    "personaje":"Jin Soo",
+                    "sexo":"Masculino",
+                    "img":"https://finde.latercera.com/wp-content/uploads/2021/07/La-8%C2%AA-Noche-2.jpg"
+                },
+              {
+                    "id":"7.2",
+                    "actor":"Park Hae Joon ",
+                    "personaje":"Ho Tae",
+                    "sexo":"Masculino",
+                    "img":"https://image.tmdb.org/t/p/w780/lrf4XSH9wUrcK7tFBRgDssrqcYi.jpg"
+                },
+              {
+                    "id":"7.3",
+                    "actor":"Kim Yoo Jung ",
+                    "personaje":"Ae Ran",
+                    "sexo":"Femeninoi",
+                    "img":"https://www.carteltec.com/wp-content/uploads/2021/07/1625325127_The-8th-Night-%C2%A1Explicacion-del-final-de-la-pelicula-de.jpg"
+                },
+              {
+                    "id":"7.4",
+                    "actor":"Nam Da Reum ",
+                    "personaje":"Cheong Seok",
+                    "sexo":"Masculino",
+                    "img":"https://gcdn.lanetaneta.com/wp-content/uploads/2021/07/1625283248_277_Guia-de-personajes-y-reparto-de-la-octava-noche.5.jpeg"
+                }
+            ]
+      },
+               {
+        "id":"08",
+            "tittle":" Zombie Detective",
+            "genero":[ "Misterio", "Comedia", "Terror"],
+            "sipnosis":"Zombie Detective es un drama de supervivencia sobre un zombie que lucha en el mundo humano después de asumir una nueva identidad como detective después de su resurrección hace cuatro años.",
+          "director":"Shim Jae Hyun  (심재현)",
+            "guionista":" Baek Eun Jin (백은진)",
+            "episodios":"12",
+            "cadena":"KBS2",
+            "donde ver":"Netflix",
+            "periodo de emision":"21-Septiembre-2020 al 27-Octubre-2020",
+            "year":"2020",
+            "type":"Serie",
+            "img_url":"https://static.wikia.nocookie.net/drama/images/4/4d/Zombie_Detective-KBS2-2020-04.jpg/revision/latest/scale-to-width-down/250?cb=20200817022057&path-prefix=es",
+            "banda sonora":"https://www.youtube.com/watch?v=xmagOsCqyWM",
+            "reparto":[
+              {
+                "id":"8.1",
+                    "actor":"Choi Jin Hyuk",
+                    "personaje":"Kim Moo Yeong",
+                    "sexo":"Masculino",
+                    "img":"https://i.postimg.cc/RZLTh35Z/ep10-0.jpg"
+              },
+              {
+                "id":"8.2",
+                    "actor":"Park Joo Hyun ",
+                    "personaje":"Gong Sun Ji",
+                    "sexo":"Femenino",
+                    "img":"https://m.media-amazon.com/images/M/MV5BNWRmN2RmMjAtMmRiYi00MGY0LWI3YTctMDFkMTkyNDNjY2VmXkEyXkFqcGdeQXVyMjQ2OTU4Mjg@._V1_.jpg"
+              },
+              {
+                "id":"8.3",
+                    "actor":"Tae Hang Ho",
+                    "personaje":"Lee Sung Rok",
+                    "sexo":"Masculino",
+                    "img":"https://www.dramabeans.com/wp-content/uploads/2020/11/zom1112-00149.jpg"
+              },
+              {
+                "id":"8.4",
+                    "actor":"Lee Joong Ok ",
+                    "personaje":"  Wang Wei",
+                    "sexo":"Masculino",
+                    "img":"https://www.dramabeans.com/wp-content/uploads/2020/11/zom1112-00151.jpg"
+              }
+            ]
+      },
+               {
+        "id":"09",
+            "tittle":"Rumbo al Infierno",
+            "genero":[ "Drama", "Drama", "Fantasía","Terror"],
+            "sipnosis":"La gente escucha predicciones sobre cuándo morirá. Cuando llega ese momento, un ángel de la muerte aparece frente a ellos y los mata.Jung Jin Soo es el jefe de la nueva religión Saejinrihwe. Habla sobre el fenómeno cuando vienen los ángeles de la muerte del infierno y afirma que es una revelación de Dios. Jung Jin Soo tiene un carisma intenso y un aspecto misterioso.Bae Young Jae es un PD de una emisora. Intenta descubrir la verdad sobre el grupo religioso Saejinrihwe.Min Hee Jin es abogada. Ella se opone al grupo Hwasalchok (Punta de flecha), que consiste en personas que siguen ciegamente a Saejinrihwe.Song So Hyun es la esposa de Bae Young Jae. Ella colapsa en un dolor emocional, con el que no puede lidiar.Jin Kyung Hoon es detective e investiga casos relacionados con la aparición de ángeles de la muerte.",
+          "director":" Yun Sang Ho",
+            "guionista":" Yun Sang Ho, Choi Gyu Suk",
+            "episodios":"9",
+            "cadena":" Netflix",
+            "donde ver":"Netflix",
+            "periodo de emision":"19-Noviembre-2021",
+            "year":"2021",
+            "type":"Serie",
+       "img_url":"https://static.wikia.nocookie.net/drama/images/e/e8/Hellbound-Netflix-2021-10.jpg/revision/latest/scale-to-width-down/250?cb=20211115010308&path-prefix=es",
+            "banda sonora":"https://www.youtube.com/watch?v=eBfO5Wisr8c&list=PL4Wt9Tdj2iBa9r9d1dd1bli0K1AG8Tuwq&index=1",
+            "reparto":[
+              {
+                "id":"9.1",
+                    "actor":"Yoo Ah In ",
+                    "personaje":"Jung Jin Soo",
+                    "sexo":"Masculino",
+                    "img":"https://fotografias.antena3.com/clipping/cmsimages02/2021/11/23/4E05FB1E-39AA-4027-9195-76C98C88AAAD/103.jpg?crop=1421,1066,x179,y0&width=1200&height=900&optimize=low&format=webply"
+              },
+              {
+                "id":"9.2",
+                    "actor":"Park Jung Min",
+                    "personaje":"Bae Young Jae",
+                    "sexo":"Masculino",
+                    "img":"https://www.lavanguardia.com/files/image_449_220/uploads/2021/11/23/619ccefb9ebf1.jpeg"
+              },
+              {
+                "id":"9.3",
+                    "actor":"Kim Hyun Joo  ",
+                    "personaje":"Min Hee Jin",
+                    "sexo":"Femenino",
+                    "img":"https://elcomercio.pe/resizer/zSsKYqwwWhjyY_qfMoqpEwnfC5M=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/PRIWXQRUL5BY7HMLXQPQ5IHNCE.jpg"
+              },
+              {
+                "id":"9.4",
+                    "actor":"Won Jin Ah",
+                    "personaje":"Song So Hyun",
+                    "sexo":"Femenino",
+                    "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/rumbo-al-infierno-1637596857.jpg?resize=480:*"
+              }
+            ]
+      },
+               {
+           "id":"10",
+            "tittle":"mar de la tranquilidad",
+            "genero":[ "Drama", "Ciencia Ficción"," Terror", "Suspenso"],
+            "sipnosis":"En una peligrosa misión de 24 horas a la luna, un grupo de exploradores intentan conseguir muestras de una estación espacial abandonada. Pero los secretos abundan...",
+            "director":"Choi Hang Yong (최항용)",
+            "guionista":["Park Eun Kyo (박은교)"],
+            "episodios":"8",
+            "cadena":"Netflix",
+            "donde ver":"neflix",
+            "periodo de emision":"24-Diciembre-2021",
+            "year":"2021",
+            "type":"serie",
+            "img_url":"https://static.wikia.nocookie.net/doblaje/images/8/8e/Mar_de_la_Tranquilidad.jpg/revision/latest/scale-to-width-down/337?cb=20211226065338&path-prefix=es",
+            "banda sonora":"https://www.youtube.com/watch?v=63S5KH2BXaM",
+            "reparto":[
+              {
+                "id":"10.1",
+                    "actor":"Gong Yoo ",
+                    "personaje":" Han Yoon Jae ",
+                    "sexo":"Masculino",
+                    "img":"https://44.media.tumblr.com/d05870bed85278e1b8d1668fecc0d630/55dd03910388b83a-59/s540x810_f1/133e770cc3854df4f050a5caf8fbe5adbd8537a3.gif"
+              },
+              {
+                "id":"10.2",
+                    "actor":"Bae Doo Na ",
+                    "personaje":"Song Ji An ",
+                    "sexo":"Femenino",
+                    "img":"https://elcomercio.pe/resizer/G_G0YtJsACbrtYa4lPOJ8K15plo=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/YEYIYOL5FJEDDETPHU7OWJAVTI.jpg"
+              },
+              {
+                "id":"10.3",
+                    "actor":"Lee Joon ",
+                    "personaje":"Ryu Tae Seok ",
+                    "sexo":"Masculino",
+                    "img":"https://thecinemaholic.com/wp-content/uploads/2021/12/taesuk-gfe.jpg"
+                   },
+              {
+                "id":"10.4",
+                    "actor":"Lee Joon ",
+                    "personaje":"Ryu Tae Seok ",
+                    "sexo":"Masculino",
+                    "img":"https://thecinemaholic.com/wp-content/uploads/2021/12/taesuk-gfe.jpg"
+             }
+            ]
+      },
+               {
+           "id":"11",
+            "tittle":"la gloria",
+            "genero":[ "drama"],
+            "sipnosis":"The Glory es una triste historia de venganza que comienza con una estudiante de secundaria que soñaba con convertirse en arquitecta. Sin embargo, abandonó la escuela debido a una brutal violencia escolar. Años más tarde, el perpetrador se casa y tiene una hija. Una vez que la niña está en la escuela primaria, la ex víctima se convierte en su maestra y ahí es donde comienza la venganza hacia aquellos que fueron los perpetradores y espectadores de sus días de intimidación.",
+            "director":" Ahn Gil Ho",
+            "guionista":" Kim Eun Sook",
+            "episodios":"8",
+            "cadena":"Netflix",
+            "donde ver":"neflix",
+            "periodo de emision":"30-Diciembre-2022 al 10-Marzo-2023",
+            "year":"2022-2023",
+            "type":"serie",
+            "img_url":"https://static.wikia.nocookie.net/drama/images/2/27/The_Glory-Netflix-2022-3.jpg/revision/latest/scale-to-width-down/250?cb=20221208104821&path-prefix=es",
+            "banda sonora":" The Glory OST",
+            "reparto":[
+              {
+                "id":"11.1",
+                    "actor":"Song Hye Kyo ", 
+                    "personaje":" Moon Dong Eun ",
+                    "sexo":"Femenino",
+                    "img":"https://i.mydramalist.com/jQE7jz_7f.jpg"
+                   },
+              {
+                "id":"11.2",
+                    "actor":"Lee Do Hyun ",
+                    "personaje":" Joo Yeo Jung",
+                    "sexo":"Masculino",
+                    "img":"https://i.mydramalist.com/jQEqPr_7f.jpg"
+              },
+              {
+                "id":"11.3",
+                    "actor":"Yum Hye Ran", 
+                    "personaje":"Jung Sung Il como Ha Do Young
+",
+                    "sexo":"Femenino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/0/07/Jung_Sung_Il7.jpg/revision/latest/scale-to-width-down/250?cb=20190321163342&path-prefix=es"
+                   },
+              {
+                "id":"11.4",
+                    "actor":"Im Ji Yun ",
+                    "personaje":"Park Yeon Jin ",
+                    "sexo":"femenino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/7/78/Im_Ji_Yun15.jpg/revision/latest/scale-to-width-down/250?cb=20161016171728&path-prefix=es"
+               }
+              
+            ]
+      },
+               {
+           "id":"12",
+            "tittle":"My name",
+            "genero":[ "Drama, Acción"],
+            "sipnosis":"“My Name” trata sobre una mujer que se une a una red de crimen organizado y se infiltra en la policía como agente encubierta para descubrir la verdad sobre la muerte de su padre.",
+            "director":" Kim Jin Min",
+            "guionista":" Kim Ba Da",
+            "episodios":"8",
+            "cadena":"neflix",
+            "donde ver":"neflix",
+            "periodo de emision":" 15-Octubre-2021",
+            "year":"2021",
+            "type":"serie",
+            "img_url":"https://static.wikia.nocookie.net/drama/images/8/85/My_Name-Netflix-2021-02.jpg/revision/latest/scale-to-width-down/250?cb=20210927084932&path-prefix=es",
+            "banda sonora":" My Name OST",
+            "reparto":[
+              {
+                "id":"12.1",
+                    "actor":"Han So Hee",
+                    "personaje":" Yoon Ji Woo",
+                    "sexo":"femenino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/a/af/Han_So_Hee26.jpg/revision/latest/scale-to-width-down/250?cb=20210630222020&path-prefix=es"
+              },
+               {
+                "id":"12.2",
+                    "actor":"Kim Su Ha",
+                    "personaje":"Yoon Ji Woo (niña)",
+                    "sexo":"femenino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/6/67/Kim_Su_Ha2.jpg/revision/latest/scale-to-width-down/250?cb=20211012185314&path-prefix=es"
+              },
+               {
+                "id":"12.3",
+                    "actor":"Park Hee Soon",
+                    "personaje":"Choi Moo Jin",
+                    "sexo":"masculino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/b/b0/Park_Hee_Soon26.jpg/revision/latest/scale-to-width-down/250?cb=20180412184910&path-prefix=es"
+              },
+               {
+                "id":"12.4",
+                    "actor":"Ahn Bo Hyun ",
+                    "personaje":"Jun Pil Do",
+                    "sexo":"masculino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/f/f9/Ahn_Bo_Hyun49.jpg/revision/latest/scale-to-width-down/250?cb=20220622224117&path-prefix=es"
+              },
+               {
+                "id":"12.5",
+                    "actor":"Kim Sang Ho",
+                    "personaje":"Cha Ki Ho",
+                    "sexo":"masculino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/2/26/Kim_Sang_Ho10.jpg/revision/latest/scale-to-width-down/250?cb=20191002183442&path-prefix=es"
+              },
+               {
+                "id":"12.6",
+                    "actor":"Lee Hak Joo ",
+                    "personaje":" Jung Tae Joo",
+                    "sexo":"masculino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/3/3b/Lee_Hak_Joo10.jpg/revision/latest/scale-to-width-down/250?cb=20200519150447&path-prefix=es"
+              },
+               {
+                "id":"12.7",
+                    "actor":"Jang Ryul",
+                    "personaje":" Do Kang Jae",
+                    "sexo":"masculino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/2/28/Jang_Ryul6.jpg/revision/latest?cb=20180221175303&path-prefix=es"
+              },
+               {
+                "id":"12.8",
+                    "actor":"Im Ki Hong",
+                    "personaje":"Mango",
+                    "sexo":"masculino",
+                    "img":"https://static.wikia.nocookie.net/drama/images/4/4c/Im_Ki_Hong5.jpg/revision/latest/scale-to-width-down/250?cb=20180607003202&path-prefix=es"
+              }
+            ]
+          }
+ ]
+               

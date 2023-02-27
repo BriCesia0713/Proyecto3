@@ -1,34 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <!--Importamos la libreia chart.js-->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@latest/dist/Chart.min.js"></script>
-    <link rel="stylesheet" href="assets/css/style.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Estadisticas de doramas</title>
+  <link rel="stylesheet" href="assets/css/estadistica.css">
+  <!--Importamos la libreia chart.js-->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@latest/dist/Chart.min.js"></script>
+  <link rel="icon" href="assets/img/logo.png">
+  <link href='https://fonts.googleapis.com/css?family=Abyssinica SIL' rel='stylesheet'>
 </head>
+
 <body>
-    
-    <div class="container">
-        <div class="graf">
-            <h1>Ejemplo de grafico de lineas</h1>
-            <canvas id="graficoLinea"></canvas>
-        </div>
-        <div class="graf">
-        <h1>Ejemplo de grafico de Barras</h1>
-        <canvas id="graficoBarras"></canvas>
-        </div>
-        <div class="graf">
-        <h1>Ejemplo de grafico de Pie</h1>
-        <canvas id="graficoPie"></canvas>
-        </div> 
-        <div class="graf">
-            <h1>Ejemplo de grafico de Dona</h1>
-            <canvas id="graficoDona"></canvas>
-        </div> 
+  <div class="header">
+    <div class="lista">
+      <details>
+        <summary></summary>
+        <nav class="menu">
+          <a href="index.html">Inicio</a>
+          <a href="romance.html">Home</a>
+          <a href="romance.html">Doramas de Romance</a>
+          <a href="terror.html">Doramas de Terror y Suspenso</a>
+          <a href="fantasia.html">Doramas de Fantasia</a>
+        </nav>
+      </details>
     </div>
-      <script src="assets/js/estadistica.js"></script>
+    <div>
+      <img class="logo" src="assets/img/logo.png" alt="logo" width="100px" height="100px">
+      <p data-item='Mundo de los doramas'>Mundo de los doramas</p>
+    </div>
+  </div>
+  <section>
+    <div class="bienvenida1">Estadisticas:</div>
+  </section>
+  <body2 />
+  <br>
+  <div class="container">
+    <div class="graf">
+      <h1 class="">Grafico general</h1>
+      <canvas id="graficoLinea"></canvas>
+    </div>
+    <div class="graf">
+      <h1>Rating-Doramas de Romance</h1>
+      <canvas id="graficoBarras"></canvas>
+    </div>
+    <div class="graf">
+      <h1>Rating-Doramas de Terror</h1>
+      <canvas id="graficoPie"></canvas>
+    </div>
+    <div class="graf">
+      <h1>Rating-Doramas de Fantacia</h1>
+      <canvas id="graficoDona"></canvas>
+    </div>
+  </div>
+  </body2>
+  <script src="assets/js/estadistica.js"></script>
 </body>
+
 </html>

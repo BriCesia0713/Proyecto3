@@ -186,24 +186,27 @@ body{
     }
   }
   .bienvenida{
+    font-family: Abyssinica SIL;
+    color: rgb(235, 220, 220);
     margin-top: 5px;
     padding-top: 5px;
     padding-left: 10px;
     padding-right: 5px;
     padding-bottom: 5px;
-    margin-left:300px;
-    margin-right: 100px;
-    width:600px;
+    text-align: center;
+    width:680px;
     height:30px;
-    font-size: 22px;
+    font-size: 37px;
   }
   .img{
     width: 850px;
-    height:350px;
+    height:380px;
     display: flex;
     background-color: #9e94b1;
-    
-
+  }
+  .img:hover{
+  transform: scale(1.1);
+    box-shadow: 10px 10px 5px rgba(139, 44, 76, 0.624);
   }
   .contenedor{
     width: 850px;
@@ -229,13 +232,15 @@ body{
   }
   .anuncio1:hover {
     transform: scale(1.1);
+    box-shadow: 10px 10px 10px 10px  #94b9cc;
   }
 .footer{
+  height: 100px;
   background-color: #608388;
 }
 .footer-tittle{
-  font-size: 20px;
+  font-size: 18px;
 }
 .parrafo{
-  font-size: 16px;
+  font-size: 12px;
 }
