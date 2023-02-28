@@ -8,12 +8,12 @@
             "guionista":"Chun Sung Il",
             "episodios":"12",
             "cadena":"Netflix",
-            "donde ver":"Netflix",
-            "periodo de emision":"28-Enero-2022",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"28-Enero-2022",
             "year":"2022",
             "type":"Serie",
             "img_url": "https://pics.filmaffinity.com/Estamos_muertos_Serie_de_TV-115795022-large.jpg",
-            "banda sonora":"https://www.youtube.com/watch?v=RYg7OKl7OTs",
+            "banda_sonora":"https://www.youtube.com/watch?v=RYg7OKl7OTs",
             "reparto":[
                 {
                     "id":"1.1",
@@ -44,6 +44,8 @@
                     "img":"https://elcomercio.pe/resizer/o71gLoIUw1VXbigw_8XFOKMuaew=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ZLXZXLTDZJC7VFHKQZXRT2CS5U.jpg"
                }
             ]
+        },
+   {
               "id":"02",
             "tittle": "Sweet Home",
             "genero": [ "Suspenso", "Psicológico", "Terror"],
@@ -52,12 +54,12 @@
             "guionista":"",
             "episodios":"3",
             "cadena":"Netflix",
-            "donde ver":"Netflix",
-            "periodo de emision":" 18-Diciembre-2020 al 2023",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":" 18-Diciembre-2020 al 2023",
             "year":"2020",
             "type":"Serie",
             "img_url": "https://pics.filmaffinity.com/Sweet_Home_Serie_de_TV-867958163-large.jpg",
-            "banda sonora":"https://www.youtube.com/watch?v=KCZXejH6brY",
+            "banda_sonora":"https://www.youtube.com/watch?v=KCZXejH6brY",
             "reparto":[
                 {
                    
@@ -99,12 +101,12 @@
             "guionista":" Hwang Dong Hyuk",
             "episodios":"2",
             "cadena":"tvN, Netflix",
-            "donde ver":["HiTV", "Doramasflix", "Pandramas,Netflix"],
-            "periodo de emision":"17-Septiembre-2021",
+            "donde_ver":["HiTV", "Doramasflix", "Pandramas,Netflix"],
+            "periodo_de_emision":"17-Septiembre-2021",
             "year":"2021",
             "type":"Serie",
             "img_url":"https://es.web.img3.acsta.net/pictures/21/09/29/12/02/1288399.jpg",
-            "banda sonora":"https://www.youtube.com/watch?v=Zo3MNE8KAIY",
+            "banda_sonora":"https://www.youtube.com/watch?v=Zo3MNE8KAIY",
             "reparto":[
                 {
                     "id":"3.1",
@@ -143,14 +145,14 @@
             "sipnosis":"El príncipe heredero se abre paso para poner a salvo a los habitantes de Joseon, pero se encuentra de nuevo luchando en una trama política contra la familia de la Reina.",
             "director":"Kim Sung Hoon (김성훈)",
             "guionista":" Kim Eun Hee",
-            "episodios":"6"
-            "cadena":"tvN,Netflix",
-            "donde ver":"Netflix",
-            "periodo de emision":"25-Enero-2019 al 13-Marzo-2020",
+            "episodios":"6",
+            "cadena":"tvN",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"25-Enero-2019 al 13-Marzo-2020",
             "year":"2019",
             "type":"Serie",
             "img_url":"https://0.soompi.io/wp-content/uploads/2020/02/24100516/Kingdom1.jpg",
-            "banda sonora":"https://www.youtube.com/watch?v=m3nToMVJwbQ",
+            "banda_sonora":"https://www.youtube.com/watch?v=m3nToMVJwbQ",
             "reparto":[
                 {
                     "id":"4.1",
@@ -191,12 +193,12 @@
             "guionista":"Kang Sun Joo (강선주), Lee Choong Hyun (이충현)",
             "duracion":"112 min",
             "cadena":" KBS2,Netflix",
-            "donde ver":"Netflix",
-            "periodo de emision":" 27-Noviembre-2020",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":" 27-Noviembre-2020",
             "year":"2020",
             "type":"Pelicula",
-            "img_url":"https://static.wikia.nocookie.net/drama/images/3/30/Call-2020-11.jpg/revision/latest?cb=20201109121740&path-prefix=es",
-            "banda sonora":"",
+            "img_url":"https://pics.filmaffinity.com/El_tel_fono-695694559-large.jpg",
+            "banda_sonora":"",
             "reparto":[
                 {
                     "id":"5.1",
@@ -238,12 +240,12 @@
             "guionista":" Lee Kang Hyun (이강현)",
             "episodios":" 8",
             "cadena":"tvN",
-            "donde ver":"Netflix",
-            "periodo de emision":" 20-Agosto-2020",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":" 20-Agosto-2020",
             "year":"2020",
             "type":"Serie",
-            "img_url":"https://static.wikia.nocookie.net/drama/images/7/7f/Goedam-Netflix-2020-01.jpg/revision/latest/scale-to-width-down/250?cb=20201108123241&path-prefix=es",
-            "banda sonora":"",
+            "img_url":"https://i.mydramalist.com/18pJy_4f.jpg",
+            "banda_sonora":"",
             "reparto":[
               {
                     "id":"6.1",
@@ -291,12 +293,12 @@
             "guionista":" ",
             "Duracion":" 115 min",
             "cadena":"Netflix, Little Big Pictures",
-            "donde ver":"Netflix",
-            "periodo de emision":" 02-Julio-2021",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":" 02-Julio-2021",
             "year":"2021",
             "type":"Pelicula",
             "img_url":"https://pics.filmaffinity.com/La_8A_noche-969829774-large.jpg",
-            "banda sonora":"",
+            "banda_sonora":"",
             "reparto":[
               {
                     "id":"7.1",
@@ -337,12 +339,12 @@
             "guionista":" Baek Eun Jin (백은진)",
             "episodios":"12",
             "cadena":"KBS2",
-            "donde ver":"Netflix",
-            "periodo de emision":"21-Septiembre-2020 al 27-Octubre-2020",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"21-Septiembre-2020 al 27-Octubre-2020",
             "year":"2020",
             "type":"Serie",
-            "img_url":"https://static.wikia.nocookie.net/drama/images/4/4d/Zombie_Detective-KBS2-2020-04.jpg/revision/latest/scale-to-width-down/250?cb=20200817022057&path-prefix=es",
-            "banda sonora":"https://www.youtube.com/watch?v=xmagOsCqyWM",
+            "img_url":"https://lyricstranslate.com/files/styles/artist/public/ylmsygnkbltj4bgmvlekjtygy4_0.jpg",
+            "banda_sonora":"https://www.youtube.com/watch?v=xmagOsCqyWM",
             "reparto":[
               {
                 "id":"8.1",
@@ -383,12 +385,12 @@
             "guionista":" Yun Sang Ho, Choi Gyu Suk",
             "episodios":"9",
             "cadena":" Netflix",
-            "donde ver":"Netflix",
-            "periodo de emision":"19-Noviembre-2021",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"19-Noviembre-2021",
             "year":"2021",
             "type":"Serie",
-       "img_url":"https://static.wikia.nocookie.net/drama/images/e/e8/Hellbound-Netflix-2021-10.jpg/revision/latest/scale-to-width-down/250?cb=20211115010308&path-prefix=es",
-            "banda sonora":"https://www.youtube.com/watch?v=eBfO5Wisr8c&list=PL4Wt9Tdj2iBa9r9d1dd1bli0K1AG8Tuwq&index=1",
+       "img_url":"https://es.web.img3.acsta.net/pictures/21/11/24/00/35/3327656.jpg",
+            "banda_sonora":"https://www.youtube.com/watch?v=eBfO5Wisr8c&list=PL4Wt9Tdj2iBa9r9d1dd1bli0K1AG8Tuwq&index=1",
             "reparto":[
               {
                 "id":"9.1",
@@ -429,12 +431,12 @@
             "guionista":["Park Eun Kyo (박은교)"],
             "episodios":"8",
             "cadena":"Netflix",
-            "donde ver":"neflix",
-            "periodo de emision":"24-Diciembre-2021",
+            "donde_ver":"neflix",
+            "periodo_de_emision":"24-Diciembre-2021",
             "year":"2021",
             "type":"serie",
-            "img_url":"https://static.wikia.nocookie.net/doblaje/images/8/8e/Mar_de_la_Tranquilidad.jpg/revision/latest/scale-to-width-down/337?cb=20211226065338&path-prefix=es",
-            "banda sonora":"https://www.youtube.com/watch?v=63S5KH2BXaM",
+            "img_url":"https://mx.web.img2.acsta.net/pictures/21/12/15/19/37/5073272.jpg",
+            "banda_sonora":"https://www.youtube.com/watch?v=63S5KH2BXaM",
             "reparto":[
               {
                 "id":"10.1",
@@ -468,19 +470,19 @@
       },
                {
            "id":"11",
-            "tittle":"la gloria",
+            "tittle":"La gloria",
             "genero":[ "drama"],
             "sipnosis":"The Glory es una triste historia de venganza que comienza con una estudiante de secundaria que soñaba con convertirse en arquitecta. Sin embargo, abandonó la escuela debido a una brutal violencia escolar. Años más tarde, el perpetrador se casa y tiene una hija. Una vez que la niña está en la escuela primaria, la ex víctima se convierte en su maestra y ahí es donde comienza la venganza hacia aquellos que fueron los perpetradores y espectadores de sus días de intimidación.",
             "director":" Ahn Gil Ho",
             "guionista":" Kim Eun Sook",
             "episodios":"8",
             "cadena":"Netflix",
-            "donde ver":"neflix",
-            "periodo de emision":"30-Diciembre-2022 al 10-Marzo-2023",
+            "donde_ver":"neflix",
+            "periodo_de_emision":"30-Diciembre-2022 al 10-Marzo-2023",
             "year":"2022-2023",
             "type":"serie",
-            "img_url":"https://static.wikia.nocookie.net/drama/images/2/27/The_Glory-Netflix-2022-3.jpg/revision/latest/scale-to-width-down/250?cb=20221208104821&path-prefix=es",
-            "banda sonora":" The Glory OST",
+            "img_url":"https://pics.filmaffinity.com/La_gloria_Serie_de_TV-982016007-large.jpg",
+            "banda_sonora":" The Glory OST",
             "reparto":[
               {
                 "id":"11.1",
@@ -522,12 +524,12 @@
             "guionista":" Kim Ba Da",
             "episodios":"8",
             "cadena":"neflix",
-            "donde ver":"neflix",
-            "periodo de emision":" 15-Octubre-2021",
+            "donde_ver":"neflix",
+            "periodo_de_emision":" 15-Octubre-2021",
             "year":"2021",
             "type":"serie",
-            "img_url":"https://static.wikia.nocookie.net/drama/images/8/85/My_Name-Netflix-2021-02.jpg/revision/latest/scale-to-width-down/250?cb=20210927084932&path-prefix=es",
-            "banda sonora":" My Name OST",
+            "img_url":"https://es.web.img2.acsta.net/r_1280_720/pictures/21/09/07/10/13/2218289.jpg",
+            "banda_sonora":" My Name OST",
             "reparto":[
               {
                 "id":"12.1",

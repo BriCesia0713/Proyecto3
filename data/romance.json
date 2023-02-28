@@ -9,12 +9,12 @@
             "escritor (webtoon)":"Hae Hwa",
             "episodios":"12",
             "cadena":" SBS",
-            "donde ver":"Netflix",
-            "periodo de emision":"28-Febrero-2022 al 05-Abril-2022",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"28-Febrero-2022 al 05-Abril-2022",
             "year":"2022",
             "type":"Serie",
             "img_url": "https://pics.filmaffinity.com/Propuesta_laboral_Serie_de_TV-459472764-large.jpg",
-            "banda sonora":"https://www.youtube.com/watch?v=W7nQrC0YT6g",
+            "banda_sonora":"https://www.youtube.com/watch?v=W7nQrC0YT6g",
             "reparto":[
                 {
                     "id":"1.1",
@@ -43,7 +43,10 @@
                     "personaje":"Jin Young-seo",
                     "sexo":"Femenino",
                     "img":"https://pics.filmaffinity.com/Propuesta_laboral_Serie_de_TV-726319885-large.jpg"
-               
+                }
+            ]
+        },
+              {
             "id":"02",
             "tittle": "Woo una abogada extraordinaria",
             "genero": [ "Romance","Legal", "Drama", "Crimen"],
@@ -52,12 +55,12 @@
             "guionista":"Moon Ji Won",
             "episodios":"16",
             "cadena":"ENA",
-            "donde ver":"Netflix",
-            "periodo de emision":" 29-Junio-2022 al 18-Agosto-2022",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":" 29-Junio-2022 al 18-Agosto-2022",
             "year":"2022",
             "type":"Serie",
             "img_url": "https://thedigitalpopcorn.files.wordpress.com/2023/01/extraordinary-attorney-woo-frequently-asked-questions.jpg?w=500",
-            "banda sonora":"https://www.youtube.com/watch?v=ZntJ5D0RSyc",
+            "banda_sonora":"https://www.youtube.com/watch?v=ZntJ5D0RSyc",
             "reparto":[
                 {
                    
@@ -99,12 +102,12 @@
             "guionista":" Ha Goo Dam",
             "episodios":"16",
             "cadena":"tvN",
-            "donde ver":["HiTV", "Doramasflix", "Pandramas"],
-            "periodo de emision":"21-Septiembre-2022 al 10-Noviembre-2022",
+            "donde_ver":["HiTV", "Doramasflix", "Pandramas"],
+            "periodo_de_emision":"21-Septiembre-2022 al 10-Noviembre-2022",
             "year":"2022",
             "type":"Serie",
-            "img_url":"https://static.wikia.nocookie.net/drama/images/e/ee/Love_in_Contract-tvN-2022-02.jpg/revision/latest/scale-to-width-down/250?cb=20220823090047&path-prefix=es",
-            "banda sonora":"https://www.youtube.com/watch?v=GdqScR8YSaE",
+            "img_url":"https://o-cdn-cas.sirclocdn.com/parenting/images/Love_in_Contract.width-800.format-webp.webp",
+            "banda_sonora":"https://www.youtube.com/watch?v=GdqScR8YSaE",
             "reparto":[
                 {
                     "id":"3.1",
@@ -145,12 +148,12 @@
             "guionista":"Jo Yong",
             "episodios":"16",
             "cadena":"tvN",
-            "donde ver":"Netflix",
-            "periodo de emision":" 20-Junio-2020 al 09-Agosto-2020",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":" 20-Junio-2020 al 09-Agosto-2020",
             "year":"2020",
             "type":"Serie",
-            "img_url":"",
-            "banda sonora":"https://www.youtube.com/watch?v=DI-dZ5H_oNA",
+            "img_url":"https://1.bp.blogspot.com/-UZ7JV4cQimo/YBeFb25_tyI/AAAAAAAAEZc/Jufu0QkBxXkD_UR78eaJ4DUn8XE40k23wCLcBGAsYHQ/s750/vBaLz8kZNXYvTjHwrTewkTw3l7k.webp",
+            "banda_sonora":"https://www.youtube.com/watch?v=DI-dZ5H_oNA",
             "reparto":[
                 {
                     "id":"4.1",
@@ -191,12 +194,12 @@
             "guionista":"Han Hee Jung",
             "episodios":"20",
             "cadena":" KBS2",
-            "donde ver":"Netflix",
-            "periodo de emision":" 11-Octubre-2021 al 14-Diciembre-2021",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":" 11-Octubre-2021 al 14-Diciembre-2021",
             "year":"2021",
             "type":"Serie",
-            "img_url":"https://static.wikia.nocookie.net/doblaje/images/7/74/The_King%27s_Affection-KBS2-2021-01.jpg/revision/latest?cb=20211024231259&path-prefix=es",
-            "banda sonora":"https://www.youtube.com/watch?v=8UJ7r5Jm0o8",
+            "img_url":"https://pm1.narvii.com/8203/a7309304d285064c508d28e80a3a7ee8eb4d58dbr1-463-663v2_hq.jpg",
+            "banda_sonora":"https://www.youtube.com/watch?v=8UJ7r5Jm0o8",
             "reparto":[
                 {
                     "id":"5.1",
@@ -238,12 +241,12 @@
             "guionista":"Kwon Do Eun",
             "episodios":"16",
             "cadena":"tvN",
-            "donde ver":"Netflix",
-            "periodo de emision":"12-Febrero-2022 al 03-Abril-2022",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"12-Febrero-2022 al 03-Abril-2022",
             "year":"2022",
             "type":"Serie",
-            "img_url":"https://static.wikia.nocookie.net/drama/images/3/3c/Twenty-Five%2C_Twenty-One-tvN-2022-06.jpg/revision/latest/scale-to-width-down/250?cb=20220207105216&path-prefix=es",
-            "banda sonora":"https://www.youtube.com/watch?v=gM3FTg0H9Ic",
+            "img_url":"https://pics.filmaffinity.com/Veinticinco_veintiuno_Serie_de_TV-801604977-large.jpg",
+            "banda_sonora":"https://www.youtube.com/watch?v=gM3FTg0H9Ic",
             "reparto":[
               {
                     "id":"6.1",
@@ -291,12 +294,12 @@
             "guionista":" Sun Young",
             "episodios":"16",
             "cadena":"jTBC",
-            "donde ver":"Netflix",
-            "periodo de emision":"12-Febrero-2022 al 03-Abril-2022",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"12-Febrero-2022 al 03-Abril-2022",
             "year":"2022",
             "type":"Serie",
             "img_url":"https://pics.filmaffinity.com/Las_inclemencias_del_amor_Serie_de_TV-197497893-large.jpg",
-            "banda sonora":"https://www.youtube.com/watch?v=UkvkQNtvBoU",
+            "banda_sonora":"https://www.youtube.com/watch?v=UkvkQNtvBoU",
             "reparto":[
               {
                     "id":"7.1",
@@ -337,12 +340,12 @@
             "guionista":"Lee Na Eun",
             "episodios":"16",
             "cadena":"SBS",
-            "donde ver":"Netflix",
-            "periodo de emision":"06-Diciembre-2021 al 25-Enero-2022",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"06-Diciembre-2021 al 25-Enero-2022",
             "year":"2022",
             "type":"Serie",
-            "img_url":"https://thatparkplace.com/wp-content/uploads/2022/02/cRZ3QLG-1.jpg",
-            "banda sonora":"https://www.youtube.com/watch?v=tt6SOhoV7pw",
+            "img_url":"https://f.ptcdn.info/178/076/000/r6bec5k2fbHhybn9OaZ-o.jpg",
+            "banda_sonora":"https://www.youtube.com/watch?v=tt6SOhoV7pw",
             "reparto":[
               {
                 "id":"8.1",
@@ -383,12 +386,12 @@
             "guionista":"Baek Eun Kyung",
             "episodios":"12",
             "cadena":"KakaoTV",
-            "donde ver":"Netflix",
-            "periodo de emision":"05-Septiembre-2022 al 28-Septiembre-2022",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"05-Septiembre-2022 al 28-Septiembre-2022",
             "year":"2022",
             "type":"Serie",
        "img_url":"https://pics.filmaffinity.com/rase_un_amor_rural_Serie_de_TV-442162737-large.jpg",
-            "banda sonora":"https://www.youtube.com/watch?v=o0tO9Dm6pRo",
+            "banda_sonora":"https://www.youtube.com/watch?v=o0tO9Dm6pRo",
             "reparto":[
               {
                 "id":"9.1",
@@ -429,12 +432,12 @@
             "guionista":["Kim Ji Hee", " Im Jin Sun "],
             "episodios":"8",
             "cadena":"Netflix",
-            "donde ver":"Netflix",
-            "periodo de emision":"23-Diciembre-2022",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"23-Diciembre-2022",
             "year":"2022",
             "type":"Serie",
-            "img_url":"https://mx.web.img2.acsta.net/pictures/22/10/04/03/01/3067758.jpg",
-            "banda sonora":"https://www.youtube.com/watch?v=67XeXWwK7bA",
+            "img_url":"https://pics.filmaffinity.com/La_vida_fabulosa_Serie_de_TV-570967186-large.jpg",
+            "banda_sonora":"https://www.youtube.com/watch?v=67XeXWwK7bA",
             "reparto":[
               {
                 "id":"10.1",
@@ -475,12 +478,12 @@
             "guionista":" Noh Hee Kyung",
             "episodios":"20",
             "cadena":"tvN",
-            "donde ver":"Netflix",
-            "periodo de emision":"09-Abril-2022 al 12-Junio-2022",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"09-Abril-2022 al 12-Junio-2022",
             "year":"2022",
             "type":"Serie",
             "img_url":"https://pics.filmaffinity.com/Nuestro_horizonte_azul_Serie_de_TV-955676653-large.jpg",
-            "banda sonora":"https://www.youtube.com/watch?v=L13ioc7HqX8",
+            "banda_sonora":"https://www.youtube.com/watch?v=L13ioc7HqX8",
             "reparto":[
               {
                 "id":"11.1",
@@ -521,12 +524,12 @@
             "guionista":"Kim Hye Young",
             "episodios":"16",
             "cadena":"tvN",
-            "donde ver":"Netflix",
-            "periodo de emision":"10-Abril-2019 al 30-Mayo-2019",
+            "donde_ver":"Netflix",
+            "periodo_de_emision":"10-Abril-2019 al 30-Mayo-2019",
             "year":"2019",
             "type":"Serie",
-            "img_url":"https://static.wikia.nocookie.net/drama/images/5/50/Her_Private_Life-tvN-2019-01.jpg/revision/latest?cb=20190322012349&path-prefix=es",
-            "banda sonora":"https://www.youtube.com/watch?v=xQF7P44AekI",
+            "img_url":"https://i.mydramalist.com/AvL7vc.jpg?v=1",
+            "banda_sonora":"https://www.youtube.com/watch?v=xQF7P44AekI",
             "reparto":[
               {
                 "id":"12.1",

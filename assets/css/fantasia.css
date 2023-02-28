@@ -43,7 +43,9 @@ body{
     align-items: center;
     justify-content: center;
     text-align: center;
-    background-color:  #9ce8c4;
+    background-image:url(https://i.pinimg.com/originals/a1/65/23/a16523f219806ae940d34c8ab59f4003.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
     width: 100%;
     height: min-content;
   }
@@ -88,7 +90,7 @@ body{
     padding: 12px 10px;
     width: 23px;
     height: 17px;
-    background-color: rgb(148, 219, 179);
+    background-color: #acd8bd;
     border: 2px solid var(--secoColor);
     border-radius: var(--cornerRad);
     color: var(--secoColor);
@@ -192,34 +194,34 @@ body{
     padding-left: 10px;
     padding-right: 5px;
     padding-bottom: 5px;
-    margin-left:500px;
+    margin-left:300px;
     margin-right: 100px;
     width:600px;
     height:30px;
-    font-size: 50px;
+    font-size: 45px;
     font-family: Annie Use Your Telescope;
     color: white;
   }
   .footer{
     height: 110px;
-    background-color: #cbf9c8;
+    background-image:url(https://thumbs.dreamstime.com/b/nube-y-cielo-abstractos-con-fondo-de-color-verde-amarillo-188260992.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .footer-tittle{
     font-size: 18px;
-    color: #cd6dd9;
+    color: #599571;
   }
   .parrafo{
     font-family: Athiti;
     font-size: 12px;
-    color: #c061ff;
+    color: #599571;
   }
-  .contenedor{
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
+.contenedor{
     grid-auto-rows: auto;
     grid-gap:20px;
     width: 1000px;
-    height: 700px;
+    height: 1250px;
     margin: 1rem 0rem;
     padding-left: 5px;
     padding-right: 10px;
@@ -230,6 +232,52 @@ body{
     column-gap: 1em;
     user-select: none;
   }
+.ventana{
+    background-color: #eacde1;
+    width: 60%;
+    min-height: 250px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 5px #b08aa4 ;
+    position: absolute;
+    left: 20%;
+    top:15%;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: none;
+  
+}
+.ventana-container{
+    margin: 10px;
+    border: #ffffff solid 5px;
+    border-radius: 25px;
+    overflow: hidden;
+
+}
+
+.img-vent{
+    width: 400px;
+  min-height:500px;
+    }
+
+.ventana-info{
+    padding: 10px;
+    background-color: cadetblue;
+  display:block;
+}
+.info-vent{
+  font-family: "a r i a l", serif;
+  color: #c4b3c7;
+  font-size:15px;
+  text-align: justify;
+  
+}
+#cerrar{
+    background-color: none;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
   @media only screen and (max-width: 600px){
     .contenedor{
         grid-template-columns: 1fr;
