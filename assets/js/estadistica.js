@@ -51,8 +51,8 @@ const etiquetasB = ["Propuesta laboral", "Woo una abogada estraordinaria", "Love
 const datosderatingromance = {
   label: "Ranking de Romance ",//leyenda
   data: [9.36, 17.534, 10.23, 5.425, 7.98, 9.636, 6.712, 3.9, 2.230, 5.0, 5.56, 2.664],//datos
-  backgroundColor: 'rgba(278,345,156,0.2)',
-  borderColor: 'rgba(278,345,156,1)',
+  backgroundColor: 'rgba(356, 49, 23,0.2)',
+  borderColor: 'rgba(60, 48, 7,1)',
   borderWidth: 1,//ancho de linea
 };
 //Creamos el grafico
@@ -140,12 +140,12 @@ const datosratingfantasia = {
     'rgba(232,233,161,0.2)',
     'rgba(230,181,102,0.2)',
     'rgba(229,112,126,0.2)',
-    'rgba(280,219,637,0.2)',
+    'rgba(38, 24, 3,0.2)',
     'rgba(163,221,203,0.2)',
     'rgba(232,233,161,0.2)',
     'rgba(230,181,102,0.2)',
     'rgba(229,112,126,0.2)',
-    'rgba(280,219,637,0.2)',
+    'rgba(354, 2, 34,0.2)',
     'rgba(154,162,235,0.2)',
     'rgba(269,162,208,0.2)',
   ],// Color de fondo
@@ -154,12 +154,12 @@ const datosratingfantasia = {
     'rgba(232,233,161,1)',
     'rgba(230,181,102,1)',
     'rgba(229,112,126,1)',
-    'rgba(280,219,637,1)',
+    'rgba(38, 24, 3,1)',
     'rgba(163,221,203,1)',
     'rgba(232,233,161,1)',
     'rgba(230,181,102,1)',
     'rgba(229,112,126,1)',
-    'rgba(280,219,637,1)',
+    'rgba(355, 56, 65,1)',
     'rgba(154,162,235,1)',
     'rgba(269,162,208,1)',
   ],// Color del borde
