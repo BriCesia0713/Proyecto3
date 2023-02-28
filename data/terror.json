@@ -339,7 +339,7 @@
             "guionista":" Baek Eun Jin (백은진)",
             "episodios":"12",
             "cadena":"KBS2",
-            "donde_ver":"Netflix",
+            "donde_ver":["HiTV", "Doramasflix", "Pandramas"],
             "periodo_de_emision":"21-Septiembre-2020 al 27-Octubre-2020",
             "year":"2020",
             "type":"Serie",

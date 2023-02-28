@@ -230,7 +230,7 @@ body{
     color:white;
   }
 .ventana{
-    background-color: aquamarine;
+    background-color: #76442e;
     width: 60%;
     min-height: 250px;
     border-radius: 25px;
@@ -258,14 +258,14 @@ body{
 
 .ventana-info{
     padding: 10px;
-    background-color: cadetblue;
+    background-color: #7a716e;
   display:block;
 }
 .info-vent{
   font-family: "a r i a l", serif;
   font-size:15px;
   text-align: justify;
-  
+  color:#251c19;
 }
 #cerrar{
     background-color: none;

@@ -13,11 +13,13 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    background-attachment: fixed;  /* ayuda a que la imagen de fondo no se mueva al realizar una accion 
+     en la pagina web*/
+    display: flex; /*llena los espacios vacios que hay en nuestra pagina*/
+    flex-direction: column; /*ordena nuestras imagenes o elementos en columnas*/
+    justify-content: center; /*alinea nuestras imagenes o elementos en el centro de esa manera no estara 
+    solo en un lado*/
+    align-items: center; /*ayuda a que las columnas no esten pegadas*/
     position: relative;
     font-family: Hack, monospace;
 }
@@ -233,11 +235,11 @@ body{
     user-select: none;
   }
 .ventana{
-    background-color: #eacde1;
+    background-color: #d2d29e;
     width: 60%;
     min-height: 250px;
     border-radius: 25px;
-    box-shadow: 5px 5px 5px 5px #b08aa4 ;
+    box-shadow: 5px 5px 5px 5px #e6e699;
     position: absolute;
     left: 20%;
     top:15%;
@@ -261,15 +263,14 @@ body{
 
 .ventana-info{
     padding: 10px;
-    background-color: cadetblue;
+    background-color: #d6e080;
   display:block;
 }
 .info-vent{
   font-family: "a r i a l", serif;
-  color: #c4b3c7;
+  color: #52543c;
   font-size:15px;
   text-align: justify;
-  
 }
 #cerrar{
     background-color: none;

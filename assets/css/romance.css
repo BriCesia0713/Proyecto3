@@ -199,21 +199,19 @@ body{
     font: small-caps 200% serif;
   }
   .footer{
-    height: 6rem;
-    background-color: #e3abe1;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    height: 110px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgHLqBzc66TNBp9Tk-MDUdSPdipoRFHkAloA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .footer-tittle{
     font-size: 18px;
-    color: beige;
+    color: #521417;
     font-family: Andika;
   }
   .parrafo{
     font-size: 12px;
-    color: #eceecd;
+    color: #521417;
   }
   .contenedor{
     grid-auto-rows: auto;

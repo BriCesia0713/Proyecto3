@@ -51,7 +51,7 @@ function mostrarVentana(series) {
             <h4 class="info-vent">Año: ${year}</h4>
             <h4 class="info-vent">Director: ${director}</h4>
             <h4 class="info-vent">Guionista: ${guionista}</h4>
-            
+            <h4 class="info-vent">Donde ver ${donde_ver}</h4>
         </div>
     </div>
   `
